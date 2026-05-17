@@ -40,4 +40,4 @@ jobs:
           git push
         else
           echo "⚠️ No active GWR schedule records generated for today. Skipping commit."
-        fi
+        fi   
