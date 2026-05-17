@@ -4,27 +4,28 @@ import shutil
 import json
 import csv
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime
 
 # ====================================================
-# 1. ENVIRONMENT VARIABLES & SETUP
+# 1. ENVIRONMENT VARIABLES & SETTING ARRANGEMENTS
 # ====================================================
-# Render lets us hide credentials in secure "Environment Variables" 
-# instead of hardcoding them in our text files.
+# Uses your production authentication profile
 USERNAME = os.environ.get("NROD_USERNAME", "tom.smith.199202@gmail.com")
-PASSWORD = os.environ.get("NROD_PASSWORD", "Wilkinson.02")
+PASSWORD = os.environ.get("NROD_PASSWORD", "Wilkinson@02")
 
-# Automatically target TOMORROW's date for the timetable run
-target_date_obj = datetime.now() + timedelta(days=1)
+# Pivot Strategy: Target TODAY's live calendar footprint instead of tomorrow
+target_date_obj = datetime.now()
 target_date_str = target_date_obj.strftime("%Y-%m-%d")
-tomorrow_day_index = target_date_obj.weekday()
+today_day_index = target_date_obj.weekday()
 
-# Paths (Render uses a Linux filesystem, so relative paths are safer)
+# Static production file names for your live display app to target
+OUTPUT_CSV = "gwr_timetable_today.csv"
+OUTPUT_JSON = "gwr_timetable_today.json"
+
 GZ_TARGET = "schedule.json.gz"
 INPUT_FILE = "schedule.json"
-OUTPUT_CSV = f"gwr_timetable_{target_date_str}.csv"
-OUTPUT_JSON = f"gwr_timetable_{target_date_str}.json"
 
+# Master GWR Service Group Lookup Table
 SERVICE_GROUP_LOOKUP = {
     "25370002": "EF01", "25375002": "EF02", "25390003": "EF03", "25392003": "EF03",
     "25397003": "EF04", "25396002": "EF04", "25506005": "EF05", "25507005": "EF05",
@@ -39,7 +40,7 @@ SERVICE_GROUP_LOOKUP = {
 }
 
 # ====================================================
-# 2. THE AUTOMATED DOWNLOAD & UNZIP ENGINE
+# 2. AUTOMATED LIVE DOWNLOAD & UNZIP ENGINE
 # ====================================================
 print(f"--- Starting Download for Target Date: {target_date_str} ---")
 URL = "https://datafeeds.networkrail.co.uk/ntrod/CifFileAuthenticate?type=CIF_ALL_FULL_DAILY&day=toc-full"
@@ -50,57 +51,75 @@ try:
         with open(GZ_TARGET, "wb") as f:
             for chunk in response.iter_content(chunk_size=8192):
                 f.write(chunk)
-        print("Downloaded compressed archive.")
+        print("Successfully downloaded compressed database archive.")
         
+        print("Decompressing binary streaming layers into raw schedule entries...")
         with gzip.open(GZ_TARGET, "rb") as f_in:
             with open(INPUT_FILE, "wb") as f_out:
                 shutil.copyfileobj(f_in, f_out)
-        print("Extraction complete.")
+        print("Extraction layer complete.")
     else:
-        print(f"Download failed: {response.status_code}")
+        print(f"❌ Critical Connection Refusal: Server returned status {response.status_code}")
         exit(1)
 except Exception as e:
-    print(f"Network error: {e}")
+    print(f"❌ Network socket connection error: {e}")
     exit(1)
 
 # ====================================================
-# 3. THE PARSING & GENERATION ENGINE
+# 3. PARSING, OVERLAY FILTERING & ENGINE COMPILATION
 # ====================================================
-print("Parsing dataset...")
+print("Scanning dataset records against day rules...")
 active_schedules = {}
 
 with open(INPUT_FILE, "r", encoding="utf-8") as file:
     for line in file:
-        if not line.strip(): continue
-        try: data = json.loads(line)
-        except json.JSONDecodeError: continue
+        if not line.strip(): 
+            continue
+        try: 
+            data = json.loads(line)
+        except json.JSONDecodeError: 
+            continue
 
         if "JsonScheduleV1" in data:
             schedule = data["JsonScheduleV1"]
-            if schedule.get("atoc_code") != "GW": continue
+            
+            # Keep only Great Western Railway operations
+            if schedule.get("atoc_code") != "GW": 
+                continue
                 
             segments = schedule.get("schedule_segment", {})
             new_segments = schedule.get("new_schedule_segment", {})
             locations = segments.get("schedule_location", [])
-            if not locations: continue
-
-            # Date Range & Day Filters
-            if not (schedule.get("schedule_start_date", "9999-12-31") <= target_date_str <= schedule.get("schedule_end_date", "1900-01-01")):
-                continue
-            if schedule.get("schedule_days_runs", "0000000")[tomorrow_day_index] == "0":
+            if not locations: 
                 continue
 
-            # Headcode Recovery
+            # --- RULE 1: DATE FOOTPRINT RANGE VALIDATION ---
+            start_date = schedule.get("schedule_start_date", "9999-12-31")
+            end_date = schedule.get("schedule_end_date", "1900-01-01")
+            if not (start_date <= target_date_str <= end_date):
+                continue
+
+            # --- RULE 2: DAY OF THE WEEK RUN INTERPRETATION ---
+            days_run = schedule.get("schedule_days_runs", "0000000")
+            if days_run[today_day_index] == "0":
+                continue
+
+            # --- HEADCODE RECOVERY & CLEANING ---
             headcode = new_segments.get("signalling_id", "").strip()
             if not headcode or headcode.isdigit():
                 backup = segments.get("signalling_id", "").strip()
-                if backup and not backup.isdigit(): headcode = backup
+                if backup and not backup.isdigit(): 
+                    headcode = backup
             if not headcode or headcode.isdigit():
                 cif = segments.get("CIF_headcode", "").strip()
-                if cif: headcode = cif
-            if not headcode or headcode.startswith(('0', '3', '5')): continue
+                if cif: 
+                    headcode = cif
+            
+            # Reject freight, empty stock moves, or non-passenger markers
+            if not headcode or headcode.startswith(('0', '3', '5')): 
+                continue
 
-            # STP Overlay Handling
+            # --- RULE 3: STP OVERLAY PRIORITIZATION ENGINE ---
             stp = schedule.get("CIF_stp_indicator", "P")
             unique_key = (schedule.get("CIF_train_uid"), headcode)
             ranks = {"P": 1, "O": 2, "A": 2, "C": 3}
@@ -111,7 +130,9 @@ with open(INPUT_FILE, "r", encoding="utf-8") as file:
             else:
                 active_schedules[unique_key] = {"stp": stp, "headcode": headcode, "segments": segments, "locations": locations}
 
-# Save outputs
+# ====================================================
+# 4. STRUCTURED DATA EXPORT TARGETS
+# ====================================================
 json_out = {}
 total_saved = 0
 
@@ -120,7 +141,9 @@ with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as csv_file:
     writer.writeheader()
 
     for key, info in active_schedules.items():
-        if info["stp"] == "C": continue
+        # Cleanly bypass cancellations
+        if info["stp"] == "C": 
+            continue
 
         locs, segs = info["locations"], info["segments"]
         dep = locs[0].get("public_departure") or locs[0].get("departure", "0000")
@@ -129,18 +152,22 @@ with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as csv_file:
         svc_code = segs.get("CIF_train_service_code", "Unknown").strip()
         svc_group = SERVICE_GROUP_LOOKUP.get(svc_code, "Unmapped")
 
+        # Layout Target A: Flat Spreadsheet rows
         writer.writerow({
             "TRAIN_ID": key[0], "HEADCODE": info["headcode"], "SERVICE_GROUP": svc_group,
             "ORIGIN_DEP_TIME": f_dep, "ROUTE_START": locs[0].get("tiploc_code"), "ROUTE_END": locs[-1].get("tiploc_code")
         })
 
+        # Layout Target B: Nested Key Display JSON objects 
         json_out[info["headcode"]] = {
-            "serviceGroup": svc_group, "origin": locs[0].get("tiploc_code"),
-            "destination": locs[-1].get("tiploc_code"), "departure": f_dep
+            "serviceGroup": svc_group, 
+            "origin": locs[0].get("tiploc_code"),
+            "destination": locs[-1].get("tiploc_code"), 
+            "departure": f_dep
         }
         total_saved += 1
 
 with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
     json.dump(json_out, f, indent=2)
 
-print(f"🎉 Run Complete. Successfully tracked {total_saved} GWR services for tomorrow ({target_date_str}).")
+print(f"🎉 Run Complete. Successfully tracked {total_saved} GWR services live for today ({target_date_str}).")
