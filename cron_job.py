@@ -11,7 +11,7 @@ from datetime import datetime
 # ====================================================
 # Uses your production authentication profile
 USERNAME = os.environ.get("NROD_USERNAME", "tom.smith.199202@gmail.com")
-PASSWORD = os.environ.get("NROD_PASSWORD", "Wilkinson@02")
+PASSWORD = os.environ.get("NROD_PASSWORD", "Wilkinson02.")
 
 # Pivot Strategy: Target TODAY's live calendar footprint instead of tomorrow
 target_date_obj = datetime.now()
