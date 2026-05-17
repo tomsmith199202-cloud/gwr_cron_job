@@ -1,0 +1,37 @@
+name: Generate Daily GWR Timetable
+
+on:
+  schedule:
+    # This instructs GitHub to run the workflow automatically every night at 3:00 AM UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch: # This allows you to click a manual "Run" button in GitHub to test it anytime
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python Environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Install Network Dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run Core Timetable Engine
+      run: |
+        python cron_job.py
+
+    - name: Commit and Push Updated Timetable JSON
+      run: |
+        git config --global user.name "GWR Timetable Bot"
+        git config --global user.email "actions@github.com"
+        git add gwr_timetable_tomorrow.json gwr_timetable_tomorrow.csv
+        git diff-index --quiet HEAD || git commit -m "Automated Daily Timetable Update: $(date +'%Y-%m-%d')"
+        git push
