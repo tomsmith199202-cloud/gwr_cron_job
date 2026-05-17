@@ -32,6 +32,12 @@ jobs:
       run: |
         git config --global user.name "GWR Timetable Bot"
         git config --global user.email "actions@github.com"
-        git add gwr_timetable_tomorrow.json gwr_timetable_tomorrow.csv
-        git diff-index --quiet HEAD || git commit -m "Automated Daily Timetable Update: $(date +'%Y-%m-%d')"
-        git push
+        
+        # Check if the files were actually created by the script
+        if [ -f gwr_timetable_tomorrow.json ]; then
+          git add gwr_timetable_tomorrow.json gwr_timetable_tomorrow.csv
+          git diff-index --quiet HEAD || git commit -m "Automated Daily Timetable Update: $(date +'%Y-%m-%d')"
+          git push
+        else
+          echo "⚠️ No active GWR schedule records generated for tomorrow's date footprint. Skipping commit."
+        fi
