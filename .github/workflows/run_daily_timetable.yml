@@ -3,7 +3,7 @@ name: Generate Daily GWR Timetable
 on:
   schedule:
     # Wakes up automatically every single morning at 02:00 AM UTC
-    - cron: '0 2 * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch: # Keeps a manual trigger button active on your GitHub Dashboard
 
 jobs:
