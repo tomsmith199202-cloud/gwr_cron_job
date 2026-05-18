@@ -151,15 +151,18 @@ with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as csv_file:
         
         svc_code = segs.get("CIF_train_service_code", "Unknown").strip()
         svc_group = SERVICE_GROUP_LOOKUP.get(svc_code, "Unmapped")
+        
+        train_uid = key[0]  # This is the unique identifier (e.g., GW5031)
 
         # Layout Target A: Flat Spreadsheet rows
         writer.writerow({
-            "TRAIN_ID": key[0], "HEADCODE": info["headcode"], "SERVICE_GROUP": svc_group,
+            "TRAIN_ID": train_uid, "HEADCODE": info["headcode"], "SERVICE_GROUP": svc_group,
             "ORIGIN_DEP_TIME": f_dep, "ROUTE_START": locs[0].get("tiploc_code"), "ROUTE_END": locs[-1].get("tiploc_code")
         })
 
-        # Layout Target B: Nested Key Display JSON objects 
-        json_out[info["headcode"]] = {
+        # Fix: Save using the unique TRAIN_ID as the key so headcodes never overwrite each other!
+        json_out[train_uid] = {
+            "headcode": info["headcode"],
             "serviceGroup": svc_group, 
             "origin": locs[0].get("tiploc_code"),
             "destination": locs[-1].get("tiploc_code"), 
