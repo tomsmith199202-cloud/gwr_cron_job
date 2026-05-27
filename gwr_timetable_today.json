@@ -8138,7 +8138,7 @@
     "serviceGroup": "EF05",
     "origin": "PADTON",
     "destination": "NEWBURY",
-    "departure": "12:15"
+    "departure": "12:13"
   },
   "W35121": {
     "headcode": "1K13",
@@ -12179,13 +12179,6 @@
     "destination": "WORCSSH",
     "departure": "06:08"
   },
-  "C48252": {
-    "headcode": "2N73",
-    "serviceGroup": "EF05",
-    "origin": "PADTON",
-    "destination": "DIDCOTP",
-    "departure": "22:36"
-  },
   "V10401": {
     "headcode": "1Z52",
     "serviceGroup": "EF10",
@@ -12193,19 +12186,19 @@
     "destination": "OXFD",
     "departure": "05:47"
   },
+  "V11005": {
+    "headcode": "1L00",
+    "serviceGroup": "EF02",
+    "origin": "BRSTPWY",
+    "destination": "PADTON",
+    "departure": "05:52"
+  },
   "V80865": {
     "headcode": "2Z91",
     "serviceGroup": "EF13",
     "origin": "WSTBRYW",
     "destination": "CHLTNHM",
     "departure": "20:06"
-  },
-  "V80876": {
-    "headcode": "1U03",
-    "serviceGroup": "EF02",
-    "origin": "PADTON",
-    "destination": "BRSTPWY",
-    "departure": "06:48"
   },
   "V80878": {
     "headcode": "1O38",
@@ -12242,13 +12235,6 @@
     "destination": "PADTON",
     "departure": "05:29"
   },
-  "V11001": {
-    "headcode": "1U32",
-    "serviceGroup": "EF02",
-    "origin": "PADTON",
-    "destination": "BRSTPWY",
-    "departure": "19:42"
-  },
   "V11002": {
     "headcode": "1U27",
     "serviceGroup": "EF02",
@@ -12256,19 +12242,33 @@
     "destination": "BRSTPWY",
     "departure": "17:42"
   },
+  "V99945": {
+    "headcode": "2C98",
+    "serviceGroup": "EF10",
+    "origin": "BRSTPWY",
+    "destination": "BRSTLTM",
+    "departure": "00:23"
+  },
+  "C48252": {
+    "headcode": "2N73",
+    "serviceGroup": "EF05",
+    "origin": "PADTON",
+    "destination": "DIDCOTP",
+    "departure": "22:36"
+  },
+  "V11001": {
+    "headcode": "1U32",
+    "serviceGroup": "EF02",
+    "origin": "PADTON",
+    "destination": "BRSTPWY",
+    "departure": "19:42"
+  },
   "V11004": {
     "headcode": "1R10",
     "serviceGroup": "EF05",
     "origin": "PADTON",
     "destination": "RDNGSTN",
     "departure": "10:15"
-  },
-  "V11005": {
-    "headcode": "1L00",
-    "serviceGroup": "EF02",
-    "origin": "BRSTPWY",
-    "destination": "PADTON",
-    "departure": "05:52"
   },
   "V80869": {
     "headcode": "1U30",
@@ -12312,18 +12312,18 @@
     "destination": "BRSTPWY",
     "departure": "07:48"
   },
+  "V80876": {
+    "headcode": "1U03",
+    "serviceGroup": "EF02",
+    "origin": "PADTON",
+    "destination": "BRSTPWY",
+    "departure": "06:48"
+  },
   "V80882": {
     "headcode": "1L03",
     "serviceGroup": "EF02",
     "origin": "BRSTPWY",
     "destination": "PADTON",
     "departure": "07:29"
-  },
-  "V99945": {
-    "headcode": "2C98",
-    "serviceGroup": "EF10",
-    "origin": "BRSTPWY",
-    "destination": "BRSTLTM",
-    "departure": "00:23"
   }
 }
