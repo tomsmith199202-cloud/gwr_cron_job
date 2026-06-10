@@ -7424,7 +7424,7 @@
     "serviceGroup": "EF02",
     "origin": "PADTON",
     "destination": "CRDFCEN",
-    "departure": "14:15"
+    "departure": "14:12"
   },
   "W34630": {
     "headcode": "1B19",
@@ -12178,13 +12178,6 @@
     "origin": "PADTON",
     "destination": "BRSTLTM",
     "departure": "10:00"
-  },
-  "V04568": {
-    "headcode": "2C98",
-    "serviceGroup": "EF10",
-    "origin": "BRSTPWY",
-    "destination": "BRSTLTM",
-    "departure": "00:23"
   },
   "V89000": {
     "headcode": "2A18",
