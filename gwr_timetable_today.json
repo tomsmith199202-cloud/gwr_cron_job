@@ -1964,7 +1964,7 @@
     "serviceGroup": "EF07",
     "origin": "NEWBURY",
     "destination": "RDNGSTN",
-    "departure": "21:06"
+    "departure": "21:08"
   },
   "C48330": {
     "headcode": "2K57",
@@ -1985,7 +1985,7 @@
     "serviceGroup": "EF07",
     "origin": "NEWBURY",
     "destination": "NEWBURY",
-    "departure": "21:39"
+    "departure": "21:38"
   },
   "C48344": {
     "headcode": "2T00",
@@ -5436,7 +5436,7 @@
     "serviceGroup": "EF10",
     "origin": "BRSTLTM",
     "destination": "FILTNEW",
-    "departure": "09:04"
+    "departure": "09:05"
   },
   "G15251": {
     "headcode": "2H15",
@@ -5793,7 +5793,7 @@
     "serviceGroup": "EF07",
     "origin": "NEWBURY",
     "destination": "RDNGSTN",
-    "departure": "20:17"
+    "departure": "20:18"
   },
   "G15342": {
     "headcode": "2K55",
@@ -7137,7 +7137,7 @@
     "serviceGroup": "EF02",
     "origin": "PADTON",
     "destination": "CRDFCEN",
-    "departure": "14:15"
+    "departure": "14:12"
   },
   "W34630": {
     "headcode": "1B19",
@@ -7605,7 +7605,7 @@
     "headcode": "1F32",
     "serviceGroup": "EF13",
     "origin": "PHBR",
-    "destination": "CRDFCEN",
+    "destination": "BRSTLTM",
     "departure": "19:23"
   },
   "W35045": {
@@ -12199,5 +12199,19 @@
     "origin": "FROME",
     "destination": "WSTBRYW",
     "departure": "06:07"
+  },
+  "V91914": {
+    "headcode": "1Z34",
+    "serviceGroup": "EF10",
+    "origin": "CRDFCEN",
+    "destination": "BRSTLTM",
+    "departure": "23:49"
+  },
+  "V91916": {
+    "headcode": "1Z32",
+    "serviceGroup": "EF13",
+    "origin": "BRSTLTM",
+    "destination": "CRDFCEN",
+    "departure": "21:56"
   }
 }
