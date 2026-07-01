@@ -24,7 +24,7 @@
     "headcode": "2M72",
     "serviceGroup": "EF07",
     "origin": "DIDCOTP",
-    "destination": "OXFD",
+    "destination": "BNBR",
     "departure": "22:39"
   },
   "C00996": {
@@ -11330,14 +11330,14 @@
     "serviceGroup": "EF08",
     "origin": "TWYFORD",
     "destination": "HNLYOT",
-    "departure": "08:25"
+    "departure": "08:24"
   },
   "Y80591": {
     "headcode": "2H17",
     "serviceGroup": "EF08",
     "origin": "HNLYOT",
     "destination": "TWYFORD",
-    "departure": "08:41"
+    "departure": "08:40"
   },
   "Y80593": {
     "headcode": "2H18",
@@ -11651,7 +11651,7 @@
     "headcode": "2H75",
     "serviceGroup": "EF08",
     "origin": "HNLYOT",
-    "destination": "TWYFORD",
+    "destination": "RDNGSTN",
     "departure": "00:18"
   },
   "C48263": {
@@ -12193,13 +12193,6 @@
     "destination": "BRSTLTM",
     "departure": "23:49"
   },
-  "V15855": {
-    "headcode": "1D47",
-    "serviceGroup": "EF05",
-    "origin": "OXFD",
-    "destination": "PADTON",
-    "departure": "00:10"
-  },
   "V95112": {
     "headcode": "2Z72",
     "serviceGroup": "EF08",
@@ -12402,5 +12395,54 @@
     "origin": "PADTON",
     "destination": "WORCSSH",
     "departure": "21:53"
+  },
+  "V11160": {
+    "headcode": "2Z95",
+    "serviceGroup": "EF10",
+    "origin": "CRDFCEN",
+    "destination": "BRSTLTM",
+    "departure": "22:00"
+  },
+  "V11161": {
+    "headcode": "2Z85",
+    "serviceGroup": "EF10",
+    "origin": "CRDFCEN",
+    "destination": "TAUNTON",
+    "departure": "16:58"
+  },
+  "V11162": {
+    "headcode": "2Z82",
+    "serviceGroup": "EF10",
+    "origin": "BRSTLTM",
+    "destination": "GLOSTER",
+    "departure": "22:45"
+  },
+  "V11163": {
+    "headcode": "2Z49",
+    "serviceGroup": "EF10",
+    "origin": "WORCSFS",
+    "destination": "BRSTLTM",
+    "departure": "16:55"
+  },
+  "V11164": {
+    "headcode": "2Z34",
+    "serviceGroup": "EF11",
+    "origin": "EXMOUTH",
+    "destination": "CRDFCEN",
+    "departure": "20:24"
+  },
+  "V11165": {
+    "headcode": "2Z26",
+    "serviceGroup": "EF10",
+    "origin": "TAUNTON",
+    "destination": "CRDFCEN",
+    "departure": "17:10"
+  },
+  "V15855": {
+    "headcode": "1D47",
+    "serviceGroup": "EF05",
+    "origin": "OXFD",
+    "destination": "PADTON",
+    "departure": "00:10"
   }
 }
