@@ -12228,13 +12228,6 @@
     "destination": "PADTON",
     "departure": "04:36"
   },
-  "C48615": {
-    "headcode": "2P94",
-    "serviceGroup": "EF05",
-    "origin": "RDNGSTN",
-    "destination": "PADTON",
-    "departure": "00:19"
-  },
   "V96301": {
     "headcode": "1C46",
     "serviceGroup": "EF02",
@@ -12262,5 +12255,12 @@
     "origin": "SDON",
     "destination": "PADTON",
     "departure": "17:19"
+  },
+  "C48615": {
+    "headcode": "2P94",
+    "serviceGroup": "EF05",
+    "origin": "RDNGSTN",
+    "destination": "PADTON",
+    "departure": "00:19"
   }
 }
