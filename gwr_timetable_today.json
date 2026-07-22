@@ -12200,6 +12200,13 @@
     "destination": "SDON",
     "departure": "17:48"
   },
+  "V01214": {
+    "headcode": "1A48",
+    "serviceGroup": "EF02",
+    "origin": "SDON",
+    "destination": "PADTON",
+    "departure": "17:19"
+  },
   "V01215": {
     "headcode": "1A46",
     "serviceGroup": "EF02",
@@ -12242,20 +12249,6 @@
     "destination": "SDON",
     "departure": "06:48"
   },
-  "V01213": {
-    "headcode": "1A52",
-    "serviceGroup": "EF02",
-    "origin": "SDON",
-    "destination": "PADTON",
-    "departure": "18:19"
-  },
-  "V01214": {
-    "headcode": "1A48",
-    "serviceGroup": "EF02",
-    "origin": "SDON",
-    "destination": "PADTON",
-    "departure": "17:19"
-  },
   "V01216": {
     "headcode": "1A44",
     "serviceGroup": "EF02",
@@ -12276,5 +12269,12 @@
     "origin": "NEWBURY",
     "destination": "RDNGSTN",
     "departure": "23:59"
+  },
+  "V01213": {
+    "headcode": "1A52",
+    "serviceGroup": "EF02",
+    "origin": "SDON",
+    "destination": "PADTON",
+    "departure": "18:19"
   }
 }
