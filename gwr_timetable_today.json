@@ -185,7 +185,7 @@
     "headcode": "2T34",
     "serviceGroup": "EF11",
     "origin": "BRNSTPL",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "19:42"
   },
   "C02435": {
@@ -262,7 +262,7 @@
     "headcode": "2T20",
     "serviceGroup": "EF07",
     "origin": "BEDYN",
-    "destination": "NEWBURY",
+    "destination": "NEWBRYR",
     "departure": "14:57"
   },
   "C02455": {
@@ -976,224 +976,224 @@
     "headcode": "2T01",
     "serviceGroup": "EF11",
     "origin": "EXETRSD",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "04:58"
   },
   "C47972": {
     "headcode": "2T02",
     "serviceGroup": "EF11",
     "origin": "EXETRSD",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "05:34"
   },
   "C47975": {
     "headcode": "2T04",
     "serviceGroup": "EF11",
     "origin": "EXETRSD",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "05:58"
   },
   "C47984": {
     "headcode": "2T05",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "05:51"
   },
   "C47985": {
     "headcode": "2T06",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "06:15"
   },
   "C47986": {
     "headcode": "2T07",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "06:55"
   },
   "C47988": {
     "headcode": "2T08",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "07:24"
   },
   "C47991": {
     "headcode": "2T09",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "07:54"
   },
   "C47993": {
     "headcode": "2T10",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "08:24"
   },
   "C47995": {
     "headcode": "2T11",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "08:54"
   },
   "C47998": {
     "headcode": "2T12",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "09:24"
   },
   "C48000": {
     "headcode": "2T13",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "10:00"
   },
   "C48003": {
     "headcode": "2T14",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "10:25"
   },
   "C48004": {
     "headcode": "2T15",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "10:57"
   },
   "C48007": {
     "headcode": "2T16",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "11:23"
   },
   "C48010": {
     "headcode": "2T17",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "11:57"
   },
   "C48013": {
     "headcode": "2T18",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "12:23"
   },
   "C48015": {
     "headcode": "2T19",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "12:57"
   },
   "C48018": {
     "headcode": "2T20",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "13:23"
   },
   "C48021": {
     "headcode": "2T21",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "13:57"
   },
   "C48024": {
     "headcode": "2T22",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "14:23"
   },
   "C48025": {
     "headcode": "2T23",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "14:57"
   },
   "C48028": {
     "headcode": "2T24",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "15:23"
   },
   "C48030": {
     "headcode": "2T25",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "15:55"
   },
   "C48033": {
     "headcode": "2T26",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "16:23"
   },
   "C48035": {
     "headcode": "2T27",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "16:57"
   },
   "C48037": {
     "headcode": "2T28",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "17:25"
   },
   "C48039": {
     "headcode": "2T29",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "17:56"
   },
   "C48044": {
     "headcode": "2T31",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "18:56"
   },
   "C48048": {
     "headcode": "2T33",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "19:56"
   },
   "C48052": {
     "headcode": "2T36",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "21:26"
   },
   "C48054": {
     "headcode": "2T38",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "22:25"
   },
   "C48055": {
@@ -1964,14 +1964,14 @@
     "serviceGroup": "EF07",
     "origin": "NEWBURY",
     "destination": "RDNGSTN",
-    "departure": "21:08"
+    "departure": "21:07"
   },
   "C48330": {
     "headcode": "2K57",
     "serviceGroup": "EF07",
     "origin": "NEWBURY",
     "destination": "RDNGSTN",
-    "departure": "22:08"
+    "departure": "22:07"
   },
   "C48332": {
     "headcode": "2K59",
@@ -2053,9 +2053,9 @@
   "C48353": {
     "headcode": "2T21",
     "serviceGroup": "EF07",
-    "origin": "NEWBURY",
+    "origin": "NEWBRYR",
     "destination": "BEDYN",
-    "departure": "15:27"
+    "departure": "15:23"
   },
   "C48354": {
     "headcode": "2T23",
@@ -3474,9 +3474,9 @@
   "G14922": {
     "headcode": "1A81",
     "serviceGroup": "EF04",
-    "origin": "PAIGNTN",
+    "origin": "EXETRSD",
     "destination": "PADTON",
-    "departure": "10:55"
+    "departure": "11:43"
   },
   "G14923": {
     "headcode": "1A85",
@@ -5231,9 +5231,9 @@
   "G15211": {
     "headcode": "2E40",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXETRSD",
-    "departure": "23:21"
+    "departure": "23:26"
   },
   "G15212": {
     "headcode": "2E50",
@@ -5357,9 +5357,9 @@
   "G15229": {
     "headcode": "2F12",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "09:16"
+    "departure": "09:21"
   },
   "G15230": {
     "headcode": "2F12",
@@ -5385,16 +5385,16 @@
   "G15233": {
     "headcode": "2F28",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "17:19"
+    "departure": "17:25"
   },
   "G15234": {
     "headcode": "2F29",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "17:40"
+    "departure": "17:47"
   },
   "G15237": {
     "headcode": "2G76",
@@ -6001,9 +6001,9 @@
   "G15379": {
     "headcode": "2M73",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "BRSTLTM",
-    "departure": "21:09"
+    "departure": "21:14"
   },
   "G15380": {
     "headcode": "2M76",
@@ -6313,13 +6313,6 @@
     "destination": "NEWQUAY",
     "departure": "05:55"
   },
-  "G15442": {
-    "headcode": "2O07",
-    "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
-    "destination": "SLSBRY",
-    "departure": "09:45"
-  },
   "G15443": {
     "headcode": "2O09",
     "serviceGroup": "EF03",
@@ -6464,7 +6457,7 @@
     "headcode": "2T30",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "18:26"
   },
   "G15472": {
@@ -6478,7 +6471,7 @@
     "headcode": "2T32",
     "serviceGroup": "EF11",
     "origin": "EXMOUTH",
-    "destination": "PAIGNTN",
+    "destination": "TORQUAY",
     "departure": "19:25"
   },
   "G15475": {
@@ -6550,13 +6543,6 @@
     "origin": "WORCSSH",
     "destination": "BRSTLTM",
     "departure": "22:38"
-  },
-  "G15486": {
-    "headcode": "2T55",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BRSTLTM",
-    "departure": "08:41"
   },
   "G15487": {
     "headcode": "2T59",
@@ -6694,9 +6680,9 @@
   "G15506": {
     "headcode": "2U32",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "CRDFCEN",
-    "departure": "18:51"
+    "departure": "18:57"
   },
   "G15507": {
     "headcode": "2U34",
@@ -7058,9 +7044,9 @@
   "W34582": {
     "headcode": "1A87",
     "serviceGroup": "EF04",
-    "origin": "PAIGNTN",
+    "origin": "EXETRSD",
     "destination": "PADTON",
-    "departure": "13:55"
+    "departure": "14:43"
   },
   "W34583": {
     "headcode": "1A88",
@@ -7093,9 +7079,9 @@
   "W34601": {
     "headcode": "1A98",
     "serviceGroup": "EF04",
-    "origin": "PAIGNTN",
+    "origin": "EXETRSD",
     "destination": "PADTON",
-    "departure": "19:04"
+    "departure": "19:56"
   },
   "W34617": {
     "headcode": "1B10",
@@ -7255,7 +7241,7 @@
     "headcode": "1C70",
     "serviceGroup": "EF04",
     "origin": "PADTON",
-    "destination": "PAIGNTN",
+    "destination": "EXETRSD",
     "departure": "07:02"
   },
   "W34782": {
@@ -7269,7 +7255,7 @@
     "headcode": "1C75",
     "serviceGroup": "EF04",
     "origin": "PADTON",
-    "destination": "PAIGNTN",
+    "destination": "EXETRSD",
     "departure": "09:34"
   },
   "W34791": {
@@ -7304,7 +7290,7 @@
     "headcode": "1C85",
     "serviceGroup": "EF04",
     "origin": "PADTON",
-    "destination": "PAIGNTN",
+    "destination": "EXETRSD",
     "departure": "14:36"
   },
   "W34819": {
@@ -7844,7 +7830,7 @@
     "serviceGroup": "EF05",
     "origin": "PADTON",
     "destination": "NEWBURY",
-    "departure": "15:06"
+    "departure": "15:12"
   },
   "W35133": {
     "headcode": "1K19",
@@ -10145,9 +10131,9 @@
   "Y41750": {
     "headcode": "2E38",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXETRSD",
-    "departure": "22:21"
+    "departure": "22:26"
   },
   "Y41753": {
     "headcode": "2E39",
@@ -10264,156 +10250,156 @@
   "Y41858": {
     "headcode": "2F06",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "05:57"
+    "departure": "06:06"
   },
   "Y41861": {
     "headcode": "2F07",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "06:34"
+    "departure": "06:39"
   },
   "Y41864": {
     "headcode": "2F08",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "07:19"
+    "departure": "07:25"
   },
   "Y41867": {
     "headcode": "2F09",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "07:39"
+    "departure": "07:44"
   },
   "Y41870": {
     "headcode": "2F10",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "08:15"
+    "departure": "08:20"
   },
   "Y41873": {
     "headcode": "2F11",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "08:45"
+    "departure": "08:51"
   },
   "Y80241": {
     "headcode": "2F13",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "09:45"
+    "departure": "09:51"
   },
   "Y80244": {
     "headcode": "2F14",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "10:24"
+    "departure": "10:30"
   },
   "Y80248": {
     "headcode": "2F15",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "10:41"
+    "departure": "10:58"
   },
   "Y80251": {
     "headcode": "2F16",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "11:20"
+    "departure": "11:26"
   },
   "Y80254": {
     "headcode": "2F17",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "11:55"
+    "departure": "12:01"
   },
   "Y80257": {
     "headcode": "2F18",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "12:20"
+    "departure": "12:25"
   },
   "Y80260": {
     "headcode": "2F19",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "12:55"
+    "departure": "13:00"
   },
   "Y80263": {
     "headcode": "2F20",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "13:20"
+    "departure": "13:26"
   },
   "Y80266": {
     "headcode": "2F21",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "13:40"
+    "departure": "13:45"
   },
   "Y80269": {
     "headcode": "2F22",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "14:20"
+    "departure": "14:25"
   },
   "Y80272": {
     "headcode": "2F23",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "14:55"
+    "departure": "15:00"
   },
   "Y80274": {
     "headcode": "2F24",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "15:22"
+    "departure": "15:28"
   },
   "Y80277": {
     "headcode": "2F25",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "15:52"
+    "departure": "15:58"
   },
   "Y80279": {
     "headcode": "2F26",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "16:16"
+    "departure": "16:22"
   },
   "Y80282": {
     "headcode": "2F27",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "16:40"
+    "departure": "16:46"
   },
   "Y80290": {
     "headcode": "2F30",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "18:20"
+    "departure": "18:26"
   },
   "Y80292": {
     "headcode": "2F31",
@@ -10425,37 +10411,37 @@
   "Y80294": {
     "headcode": "2F32",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "19:15"
+    "departure": "19:22"
   },
   "Y80296": {
     "headcode": "2F33",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "19:44"
+    "departure": "19:49"
   },
   "Y80298": {
     "headcode": "2F34",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "20:31"
+    "departure": "20:36"
   },
   "Y80300": {
     "headcode": "2F35",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "20:56"
+    "departure": "21:01"
   },
   "Y80302": {
     "headcode": "2F36",
     "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
+    "origin": "TORQUAY",
     "destination": "EXMOUTH",
-    "departure": "21:40"
+    "departure": "21:45"
   },
   "Y80304": {
     "headcode": "2F38",
@@ -11836,6 +11822,20 @@
     "destination": "WORCSSH",
     "departure": "06:08"
   },
+  "G15441": {
+    "headcode": "2O07",
+    "serviceGroup": "EF13",
+    "origin": "BRSTLTM",
+    "destination": "SLSBRY",
+    "departure": "09:45"
+  },
+  "G15485": {
+    "headcode": "2T55",
+    "serviceGroup": "EF13",
+    "origin": "WSTBRYW",
+    "destination": "BRSTLTM",
+    "departure": "08:41"
+  },
   "C48252": {
     "headcode": "2N73",
     "serviceGroup": "EF05",
@@ -12207,19 +12207,19 @@
     "destination": "PADTON",
     "departure": "17:19"
   },
-  "V01215": {
-    "headcode": "1A46",
-    "serviceGroup": "EF02",
-    "origin": "SDON",
-    "destination": "PADTON",
-    "departure": "08:15"
-  },
   "V01217": {
     "headcode": "1A42",
     "serviceGroup": "EF01",
     "origin": "BRSTPWY",
     "destination": "PADTON",
     "departure": "04:36"
+  },
+  "V23896": {
+    "headcode": "2Z33",
+    "serviceGroup": "EF07",
+    "origin": "NEWBURY",
+    "destination": "RDNGSTN",
+    "departure": "23:59"
   },
   "V01207": {
     "headcode": "2A18",
@@ -12242,13 +12242,6 @@
     "destination": "SDON",
     "departure": "16:48"
   },
-  "V01212": {
-    "headcode": "1C40",
-    "serviceGroup": "EF02",
-    "origin": "PADTON",
-    "destination": "SDON",
-    "departure": "06:48"
-  },
   "V01216": {
     "headcode": "1A44",
     "serviceGroup": "EF02",
@@ -12263,18 +12256,67 @@
     "destination": "SDON",
     "departure": "16:14"
   },
-  "V23895": {
-    "headcode": "2Z33",
-    "serviceGroup": "EF07",
-    "origin": "NEWBURY",
-    "destination": "RDNGSTN",
-    "departure": "23:59"
-  },
   "V01213": {
     "headcode": "1A52",
     "serviceGroup": "EF02",
     "origin": "SDON",
     "destination": "PADTON",
     "departure": "18:19"
+  },
+  "V01212": {
+    "headcode": "1C40",
+    "serviceGroup": "EF02",
+    "origin": "PADTON",
+    "destination": "SDON",
+    "departure": "06:48"
+  },
+  "V01215": {
+    "headcode": "1A46",
+    "serviceGroup": "EF02",
+    "origin": "SDON",
+    "destination": "PADTON",
+    "departure": "08:15"
+  },
+  "V14743": {
+    "headcode": "2S57",
+    "serviceGroup": "EF07",
+    "origin": "NEWBURY",
+    "destination": "NEWBURY",
+    "departure": "21:56"
+  },
+  "V14744": {
+    "headcode": "1Z37",
+    "serviceGroup": "EF05",
+    "origin": "NEWBURY",
+    "destination": "PADTON",
+    "departure": "21:55"
+  },
+  "V14745": {
+    "headcode": "1Z35",
+    "serviceGroup": "EF05",
+    "origin": "BEDYN",
+    "destination": "PADTON",
+    "departure": "20:41"
+  },
+  "V14746": {
+    "headcode": "1Z18",
+    "serviceGroup": "EF05",
+    "origin": "PADTON",
+    "destination": "NEWBURY",
+    "departure": "15:06"
+  },
+  "V14747": {
+    "headcode": "1Z16",
+    "serviceGroup": "EF05",
+    "origin": "PADTON",
+    "destination": "NEWBURY",
+    "departure": "14:06"
+  },
+  "V14748": {
+    "headcode": "1Z14",
+    "serviceGroup": "EF05",
+    "origin": "PADTON",
+    "destination": "NEWBURY",
+    "departure": "13:05"
   }
 }
