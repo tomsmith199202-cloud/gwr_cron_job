@@ -7269,7 +7269,7 @@
     "headcode": "1C75",
     "serviceGroup": "EF04",
     "origin": "PADTON",
-    "destination": "PLYMTH",
+    "destination": "PAIGNTN",
     "departure": "09:34"
   },
   "W34791": {
@@ -12207,13 +12207,6 @@
     "destination": "PADTON",
     "departure": "08:15"
   },
-  "V21961": {
-    "headcode": "1A42",
-    "serviceGroup": "EF01",
-    "origin": "BRSTPWY",
-    "destination": "PADTON",
-    "departure": "04:36"
-  },
   "V02949": {
     "headcode": "2A18",
     "serviceGroup": "EF04",
@@ -12276,5 +12269,19 @@
     "origin": "PADTON",
     "destination": "SDON",
     "departure": "16:14"
+  },
+  "V19834": {
+    "headcode": "1Z33",
+    "serviceGroup": "EF01",
+    "origin": "PADTON",
+    "destination": "WSMARE",
+    "departure": "20:30"
+  },
+  "V21961": {
+    "headcode": "1A42",
+    "serviceGroup": "EF01",
+    "origin": "BRSTPWY",
+    "destination": "PADTON",
+    "departure": "04:36"
   }
 }
