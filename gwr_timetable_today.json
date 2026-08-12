@@ -1390,7 +1390,7 @@
     "serviceGroup": "EF12",
     "origin": "FALMTHD",
     "destination": "TRURO",
-    "departure": "22:26"
+    "departure": "22:28"
   },
   "C48122": {
     "headcode": "2T96",
@@ -5008,7 +5008,7 @@
     "headcode": "2C44",
     "serviceGroup": "EF11",
     "origin": "EXETRSD",
-    "destination": "PENZNCE",
+    "destination": "PLYMTH",
     "departure": "21:31"
   },
   "G15178": {
@@ -8480,14 +8480,14 @@
     "headcode": "1W41",
     "serviceGroup": "EF03",
     "origin": "PADTON",
-    "destination": "GTMLVRN",
+    "destination": "WORCSSH",
     "departure": "20:52"
   },
   "Y15440": {
     "headcode": "1W43",
     "serviceGroup": "EF03",
     "origin": "PADTON",
-    "destination": "WORCSSH",
+    "destination": "OXFD",
     "departure": "21:53"
   },
   "Y15441": {
@@ -12186,13 +12186,6 @@
     "destination": "EXETERC",
     "departure": "19:29"
   },
-  "V06467": {
-    "headcode": "1G43",
-    "serviceGroup": "EF03",
-    "origin": "PADTON",
-    "destination": "WORCSSH",
-    "departure": "21:53"
-  },
   "V27738": {
     "headcode": "2Z92",
     "serviceGroup": "EF11",
@@ -12206,5 +12199,110 @@
     "origin": "OXFD",
     "destination": "PADTON",
     "departure": "00:11"
+  },
+  "V06439": {
+    "headcode": "2Z92",
+    "serviceGroup": "EF04",
+    "origin": "PLYMTH",
+    "destination": "PENZNCE",
+    "departure": "21:23"
+  },
+  "V06443": {
+    "headcode": "2Z44",
+    "serviceGroup": "EF12",
+    "origin": "PLYMTH",
+    "destination": "PENZNCE",
+    "departure": "23:08"
+  },
+  "V06445": {
+    "headcode": "2Z29",
+    "serviceGroup": "EF11",
+    "origin": "PLYMTH",
+    "destination": "EXETRSD",
+    "departure": "23:34"
+  },
+  "V06447": {
+    "headcode": "2T97",
+    "serviceGroup": "EF12",
+    "origin": "FALMTHD",
+    "destination": "TRURO",
+    "departure": "23:25"
+  },
+  "V06448": {
+    "headcode": "2T96",
+    "serviceGroup": "EF12",
+    "origin": "FALMTHD",
+    "destination": "TRURO",
+    "departure": "23:01"
+  },
+  "V06449": {
+    "headcode": "2T94",
+    "serviceGroup": "EF12",
+    "origin": "FALMTHD",
+    "destination": "TRURO",
+    "departure": "21:56"
+  },
+  "V06450": {
+    "headcode": "2T92",
+    "serviceGroup": "EF12",
+    "origin": "FALMTHD",
+    "destination": "TRURO",
+    "departure": "20:50"
+  },
+  "V06451": {
+    "headcode": "2T90",
+    "serviceGroup": "EF12",
+    "origin": "FALMTHD",
+    "destination": "TRURO",
+    "departure": "19:41"
+  },
+  "V06452": {
+    "headcode": "2G89",
+    "serviceGroup": "EF12",
+    "origin": "PLYMTH",
+    "destination": "GUNISLK",
+    "departure": "23:14"
+  },
+  "V06453": {
+    "headcode": "2F97",
+    "serviceGroup": "EF12",
+    "origin": "TRURO",
+    "destination": "FALMTHD",
+    "departure": "23:00"
+  },
+  "V06454": {
+    "headcode": "2F96",
+    "serviceGroup": "EF12",
+    "origin": "TRURO",
+    "destination": "FALMTHD",
+    "departure": "22:28"
+  },
+  "V06455": {
+    "headcode": "2F94",
+    "serviceGroup": "EF12",
+    "origin": "TRURO",
+    "destination": "FALMTHD",
+    "departure": "21:22"
+  },
+  "V06456": {
+    "headcode": "2F92",
+    "serviceGroup": "EF12",
+    "origin": "TRURO",
+    "destination": "FALMTHD",
+    "departure": "20:16"
+  },
+  "V06460": {
+    "headcode": "1Z92",
+    "serviceGroup": "EF04",
+    "origin": "PADTON",
+    "destination": "PLYMTH",
+    "departure": "18:03"
+  },
+  "V25897": {
+    "headcode": "2Z30",
+    "serviceGroup": "EF11",
+    "origin": "PLYMTH",
+    "destination": "EXETRSD",
+    "departure": "23:45"
   }
 }
