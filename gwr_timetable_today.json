@@ -1390,7 +1390,7 @@
     "serviceGroup": "EF12",
     "origin": "FALMTHD",
     "destination": "TRURO",
-    "departure": "22:28"
+    "departure": "22:26"
   },
   "C48122": {
     "headcode": "2T96",
@@ -6306,13 +6306,6 @@
     "destination": "NEWQUAY",
     "departure": "05:55"
   },
-  "G15442": {
-    "headcode": "2O07",
-    "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
-    "destination": "SLSBRY",
-    "departure": "09:45"
-  },
   "G15443": {
     "headcode": "2O09",
     "serviceGroup": "EF03",
@@ -6543,13 +6536,6 @@
     "origin": "WORCSSH",
     "destination": "BRSTLTM",
     "departure": "22:38"
-  },
-  "G15486": {
-    "headcode": "2T55",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BRSTLTM",
-    "departure": "08:41"
   },
   "G15487": {
     "headcode": "2T59",
@@ -11644,7 +11630,7 @@
     "headcode": "2H75",
     "serviceGroup": "EF08",
     "origin": "HNLYOT",
-    "destination": "RDNGSTN",
+    "destination": "TWYFORD",
     "departure": "00:18"
   },
   "C48263": {
@@ -11828,6 +11814,20 @@
     "origin": "BRSTLTM",
     "destination": "WORCSSH",
     "departure": "06:08"
+  },
+  "G15441": {
+    "headcode": "2O07",
+    "serviceGroup": "EF13",
+    "origin": "BRSTLTM",
+    "destination": "SLSBRY",
+    "departure": "09:45"
+  },
+  "G15485": {
+    "headcode": "2T55",
+    "serviceGroup": "EF13",
+    "origin": "WSTBRYW",
+    "destination": "BRSTLTM",
+    "departure": "08:41"
   },
   "C48252": {
     "headcode": "2N73",
@@ -12193,13 +12193,6 @@
     "destination": "EXETRSD",
     "departure": "18:56"
   },
-  "V25899": {
-    "headcode": "1D47",
-    "serviceGroup": "EF05",
-    "origin": "OXFD",
-    "destination": "PADTON",
-    "departure": "00:11"
-  },
   "V06439": {
     "headcode": "2Z92",
     "serviceGroup": "EF04",
@@ -12221,75 +12214,12 @@
     "destination": "EXETRSD",
     "departure": "23:34"
   },
-  "V06447": {
-    "headcode": "2T97",
-    "serviceGroup": "EF12",
-    "origin": "FALMTHD",
-    "destination": "TRURO",
-    "departure": "23:25"
-  },
-  "V06448": {
-    "headcode": "2T96",
-    "serviceGroup": "EF12",
-    "origin": "FALMTHD",
-    "destination": "TRURO",
-    "departure": "23:01"
-  },
-  "V06449": {
-    "headcode": "2T94",
-    "serviceGroup": "EF12",
-    "origin": "FALMTHD",
-    "destination": "TRURO",
-    "departure": "21:56"
-  },
-  "V06450": {
-    "headcode": "2T92",
-    "serviceGroup": "EF12",
-    "origin": "FALMTHD",
-    "destination": "TRURO",
-    "departure": "20:50"
-  },
-  "V06451": {
-    "headcode": "2T90",
-    "serviceGroup": "EF12",
-    "origin": "FALMTHD",
-    "destination": "TRURO",
-    "departure": "19:41"
-  },
   "V06452": {
     "headcode": "2G89",
     "serviceGroup": "EF12",
     "origin": "PLYMTH",
     "destination": "GUNISLK",
     "departure": "23:14"
-  },
-  "V06453": {
-    "headcode": "2F97",
-    "serviceGroup": "EF12",
-    "origin": "TRURO",
-    "destination": "FALMTHD",
-    "departure": "23:00"
-  },
-  "V06454": {
-    "headcode": "2F96",
-    "serviceGroup": "EF12",
-    "origin": "TRURO",
-    "destination": "FALMTHD",
-    "departure": "22:28"
-  },
-  "V06455": {
-    "headcode": "2F94",
-    "serviceGroup": "EF12",
-    "origin": "TRURO",
-    "destination": "FALMTHD",
-    "departure": "21:22"
-  },
-  "V06456": {
-    "headcode": "2F92",
-    "serviceGroup": "EF12",
-    "origin": "TRURO",
-    "destination": "FALMTHD",
-    "departure": "20:16"
   },
   "V06460": {
     "headcode": "1Z92",
@@ -12304,5 +12234,12 @@
     "origin": "PLYMTH",
     "destination": "EXETRSD",
     "departure": "23:45"
+  },
+  "V25898": {
+    "headcode": "1D47",
+    "serviceGroup": "EF05",
+    "origin": "OXFD",
+    "destination": "PADTON",
+    "departure": "00:11"
   }
 }
