@@ -10030,13 +10030,6 @@
     "destination": "PENZNCE",
     "departure": "14:42"
   },
-  "Y41608": {
-    "headcode": "2C30",
-    "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
-    "destination": "FROME",
-    "departure": "19:47"
-  },
   "Y41614": {
     "headcode": "2C33",
     "serviceGroup": "EF12",
