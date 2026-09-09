@@ -4847,14 +4847,14 @@
     "headcode": "1V68",
     "serviceGroup": "EF09",
     "origin": "GTWK",
-    "destination": "RDNG4AB",
+    "destination": "RDNGSTN",
     "departure": "21:30"
   },
   "G15153": {
     "headcode": "1V69",
     "serviceGroup": "EF09",
     "origin": "GTWK",
-    "destination": "RDNG4AB",
+    "destination": "RDNGSTN",
     "departure": "22:01"
   },
   "G15154": {
@@ -11715,7 +11715,7 @@
     "serviceGroup": "EF07",
     "origin": "OXFD",
     "destination": "RDNGSTN",
-    "departure": "03:52"
+    "departure": "03:55"
   },
   "G15445": {
     "headcode": "2O54",
@@ -12206,12 +12206,5 @@
     "origin": "FROME",
     "destination": "WSTBRYW",
     "departure": "06:07"
-  },
-  "V26466": {
-    "headcode": "1Z33",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "WSMARE",
-    "departure": "20:30"
   }
 }
