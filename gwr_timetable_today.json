@@ -4342,9 +4342,9 @@
   "G15087": {
     "headcode": "1O51",
     "serviceGroup": "EF09",
-    "origin": "RDNGSTN",
+    "origin": "GUILDFD",
     "destination": "GTWK",
-    "departure": "04:32"
+    "departure": "05:13"
   },
   "G15088": {
     "headcode": "1O53",
@@ -12206,40 +12206,5 @@
     "origin": "FROME",
     "destination": "WSTBRYW",
     "departure": "06:07"
-  },
-  "V29958": {
-    "headcode": "1R74",
-    "serviceGroup": "EF05",
-    "origin": "PADTON",
-    "destination": "RDNGSTN",
-    "departure": "16:38"
-  },
-  "V29959": {
-    "headcode": "1P72",
-    "serviceGroup": "EF05",
-    "origin": "RDNGSTN",
-    "destination": "PADTON",
-    "departure": "18:18"
-  },
-  "V32121": {
-    "headcode": "2Z76",
-    "serviceGroup": "EF07",
-    "origin": "BSNGSTK",
-    "destination": "RDNGSTN",
-    "departure": "22:56"
-  },
-  "V32122": {
-    "headcode": "2Z74",
-    "serviceGroup": "EF07",
-    "origin": "BSNGSTK",
-    "destination": "RDNGSTN",
-    "departure": "22:35"
-  },
-  "V32123": {
-    "headcode": "2Z72",
-    "serviceGroup": "EF07",
-    "origin": "BSNGSTK",
-    "destination": "RDNGSTN",
-    "departure": "22:09"
   }
 }
