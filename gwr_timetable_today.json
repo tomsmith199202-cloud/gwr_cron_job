@@ -3070,7 +3070,7 @@
     "serviceGroup": "EF13",
     "origin": "SDON",
     "destination": "WSTBRYW",
-    "departure": "15:14"
+    "departure": "15:15"
   },
   "C48816": {
     "headcode": "2M34",
@@ -6885,7 +6885,7 @@
     "serviceGroup": "EF02",
     "origin": "PADTON",
     "destination": "CRDFCEN",
-    "departure": "14:15"
+    "departure": "14:12"
   },
   "W34630": {
     "headcode": "1B19",
