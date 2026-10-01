@@ -3070,7 +3070,7 @@
     "serviceGroup": "EF13",
     "origin": "SDON",
     "destination": "WSTBRYW",
-    "departure": "15:15"
+    "departure": "15:14"
   },
   "C48816": {
     "headcode": "2M34",
@@ -5071,7 +5071,7 @@
     "headcode": "2C97",
     "serviceGroup": "EF10",
     "origin": "BRSTLTM",
-    "destination": "TAUNTON",
+    "destination": "EXETRSD",
     "departure": "23:05"
   },
   "G15201": {
@@ -6075,13 +6075,6 @@
     "destination": "DIDCOTP",
     "departure": "21:38"
   },
-  "G15442": {
-    "headcode": "2O07",
-    "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
-    "destination": "SLSBRY",
-    "departure": "09:45"
-  },
   "G15443": {
     "headcode": "2O09",
     "serviceGroup": "EF03",
@@ -6305,13 +6298,6 @@
     "origin": "WORCSSH",
     "destination": "BRSTLTM",
     "departure": "22:38"
-  },
-  "G15486": {
-    "headcode": "2T55",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BRSTLTM",
-    "departure": "08:41"
   },
   "G15487": {
     "headcode": "2T59",
@@ -6885,7 +6871,7 @@
     "serviceGroup": "EF02",
     "origin": "PADTON",
     "destination": "CRDFCEN",
-    "departure": "14:12"
+    "departure": "14:15"
   },
   "W34630": {
     "headcode": "1B19",
@@ -6941,7 +6927,7 @@
     "serviceGroup": "EF02",
     "origin": "PADTON",
     "destination": "SWANSEA",
-    "departure": "05:22"
+    "departure": "05:23"
   },
   "W34706": {
     "headcode": "1C19",
@@ -7270,7 +7256,7 @@
     "serviceGroup": "EF05",
     "origin": "PADTON",
     "destination": "OXFD",
-    "departure": "23:16"
+    "departure": "23:14"
   },
   "W34944": {
     "headcode": "1D74",
@@ -11576,6 +11562,20 @@
     "origin": "BRSTLTM",
     "destination": "WORCSSH",
     "departure": "06:08"
+  },
+  "G15441": {
+    "headcode": "2O07",
+    "serviceGroup": "EF13",
+    "origin": "BRSTLTM",
+    "destination": "SLSBRY",
+    "departure": "09:45"
+  },
+  "G15485": {
+    "headcode": "2T55",
+    "serviceGroup": "EF13",
+    "origin": "WSTBRYW",
+    "destination": "BRSTLTM",
+    "departure": "08:41"
   },
   "C48252": {
     "headcode": "2N73",
