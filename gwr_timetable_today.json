@@ -178,7 +178,7 @@
     "headcode": "2R91",
     "serviceGroup": "EF11",
     "origin": "BRNSTPL",
-    "destination": "EXETERC",
+    "destination": "STJAMSP",
     "departure": "17:33"
   },
   "C01620": {
@@ -6975,7 +6975,7 @@
     "headcode": "1G33",
     "serviceGroup": "EF03",
     "origin": "PADTON",
-    "destination": "GLOSTER",
+    "destination": "CHLTNHM",
     "departure": "21:31"
   },
   "W35090": {
@@ -9062,7 +9062,7 @@
     "serviceGroup": "EF11",
     "origin": "EXETERC",
     "destination": "BRNSTPL",
-    "departure": "18:17"
+    "departure": "18:15"
   },
   "Y41537": {
     "headcode": "2B83",
@@ -10959,7 +10959,7 @@
     "serviceGroup": "EF05",
     "origin": "PADTON",
     "destination": "RDNGSTN",
-    "departure": "00:48"
+    "departure": "00:49"
   },
   "W34493": {
     "headcode": "1A21",
@@ -11357,7 +11357,7 @@
     "headcode": "2R61",
     "serviceGroup": "EF11",
     "origin": "OKHMPTN",
-    "destination": "STJAMSP",
+    "destination": "EXETERC",
     "departure": "17:23"
   },
   "C03668": {
