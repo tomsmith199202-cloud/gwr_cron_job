@@ -12354,13 +12354,6 @@
     "destination": "PENZNCE",
     "departure": "16:36"
   },
-  "V32599": {
-    "headcode": "1Z33",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "WSMARE",
-    "departure": "20:30"
-  },
   "V40520": {
     "headcode": "1H92",
     "serviceGroup": "EF04",
