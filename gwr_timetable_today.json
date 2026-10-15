@@ -198,9 +198,9 @@
   "C02439": {
     "headcode": "2K61",
     "serviceGroup": "EF07",
-    "origin": "NEWBURY",
+    "origin": "BEDYN",
     "destination": "RDNGSTN",
-    "departure": "23:34"
+    "departure": "23:17"
   },
   "C02446": {
     "headcode": "2T04",
@@ -4441,7 +4441,7 @@
     "headcode": "1V70",
     "serviceGroup": "EF09",
     "origin": "GTWK",
-    "destination": "RDNGSTN",
+    "destination": "NEWBURY",
     "departure": "22:30"
   },
   "G15155": {
@@ -5662,13 +5662,6 @@
     "destination": "PARR",
     "departure": "21:12"
   },
-  "G15442": {
-    "headcode": "2O07",
-    "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
-    "destination": "SLSBRY",
-    "departure": "09:45"
-  },
   "G15443": {
     "headcode": "2O09",
     "serviceGroup": "EF03",
@@ -5885,13 +5878,6 @@
     "origin": "WORCSSH",
     "destination": "BRSTLTM",
     "departure": "22:38"
-  },
-  "G15486": {
-    "headcode": "2T55",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BRSTLTM",
-    "departure": "08:41"
   },
   "G15487": {
     "headcode": "2T59",
@@ -7171,7 +7157,7 @@
     "headcode": "1K32",
     "serviceGroup": "EF07",
     "origin": "RDNGSTN",
-    "destination": "NEWBURY",
+    "destination": "BEDYN",
     "departure": "23:00"
   },
   "W35155": {
@@ -11031,6 +11017,20 @@
     "destination": "WORCSSH",
     "departure": "06:08"
   },
+  "G15441": {
+    "headcode": "2O07",
+    "serviceGroup": "EF13",
+    "origin": "BRSTLTM",
+    "destination": "SLSBRY",
+    "departure": "09:45"
+  },
+  "G15485": {
+    "headcode": "2T55",
+    "serviceGroup": "EF13",
+    "origin": "WSTBRYW",
+    "destination": "BRSTLTM",
+    "departure": "08:41"
+  },
   "G14995": {
     "headcode": "1D41",
     "serviceGroup": "EF05",
@@ -12206,13 +12206,6 @@
     "origin": "PENZNCE",
     "destination": "PADTON",
     "departure": "09:10"
-  },
-  "V21908": {
-    "headcode": "1K33",
-    "serviceGroup": "EF07",
-    "origin": "NEWBURY",
-    "destination": "RDNGSTN",
-    "departure": "23:43"
   },
   "V28581": {
     "headcode": "2O29",
