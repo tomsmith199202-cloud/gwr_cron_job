@@ -4574,7 +4574,7 @@
     "headcode": "2C44",
     "serviceGroup": "EF11",
     "origin": "EXETRSD",
-    "destination": "PENZNCE",
+    "destination": "PLYMTH",
     "departure": "21:31"
   },
   "G15178": {
@@ -5662,13 +5662,6 @@
     "destination": "PARR",
     "departure": "21:12"
   },
-  "G15442": {
-    "headcode": "2O07",
-    "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
-    "destination": "SLSBRY",
-    "departure": "09:45"
-  },
   "G15443": {
     "headcode": "2O09",
     "serviceGroup": "EF03",
@@ -5885,13 +5878,6 @@
     "origin": "WORCSSH",
     "destination": "BRSTLTM",
     "departure": "22:38"
-  },
-  "G15486": {
-    "headcode": "2T55",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BRSTLTM",
-    "departure": "08:41"
   },
   "G15487": {
     "headcode": "2T59",
@@ -6555,7 +6541,7 @@
     "headcode": "1C50",
     "serviceGroup": "EF04",
     "origin": "PADTON",
-    "destination": "PENZNCE",
+    "destination": "PLYMTH",
     "departure": "23:45"
   },
   "W34780": {
@@ -11031,6 +11017,20 @@
     "destination": "WORCSSH",
     "departure": "06:08"
   },
+  "G15441": {
+    "headcode": "2O07",
+    "serviceGroup": "EF13",
+    "origin": "BRSTLTM",
+    "destination": "SLSBRY",
+    "departure": "09:45"
+  },
+  "G15485": {
+    "headcode": "2T55",
+    "serviceGroup": "EF13",
+    "origin": "WSTBRYW",
+    "destination": "BRSTLTM",
+    "departure": "08:41"
+  },
   "G14995": {
     "headcode": "1D41",
     "serviceGroup": "EF05",
@@ -12207,25 +12207,11 @@
     "destination": "WSTBRYW",
     "departure": "06:07"
   },
-  "V32303": {
-    "headcode": "2Z74",
-    "serviceGroup": "EF07",
-    "origin": "BSNGSTK",
-    "destination": "RDNGSTN",
-    "departure": "22:35"
-  },
-  "V32304": {
-    "headcode": "2Z72",
-    "serviceGroup": "EF07",
-    "origin": "BSNGSTK",
-    "destination": "RDNGSTN",
-    "departure": "22:09"
-  },
-  "V42930": {
-    "headcode": "2Z76",
-    "serviceGroup": "EF07",
-    "origin": "BSNGSTK",
-    "destination": "RDNGSTN",
-    "departure": "22:56"
+  "V49831": {
+    "headcode": "2Z44",
+    "serviceGroup": "EF12",
+    "origin": "PLYMTH",
+    "destination": "PENZNCE",
+    "departure": "22:43"
   }
 }
