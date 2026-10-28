@@ -7438,7 +7438,7 @@
     "serviceGroup": "EF03",
     "origin": "WORCSSH",
     "destination": "PADTON",
-    "departure": "20:03"
+    "departure": "20:01"
   },
   "W35392": {
     "headcode": "1P44",
@@ -12410,13 +12410,6 @@
     "destination": "BRSTLTM",
     "departure": "12:00"
   },
-  "V21577": {
-    "headcode": "1U09",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "10:00"
-  },
   "V21578": {
     "headcode": "1U07",
     "serviceGroup": "EF01",
@@ -12480,12 +12473,12 @@
     "destination": "BATHSPA",
     "departure": "06:24"
   },
-  "V21591": {
-    "headcode": "1H40",
+  "V21595": {
+    "headcode": "1H37",
     "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
+    "origin": "EXETRSD",
     "destination": "PADTON",
-    "departure": "22:50"
+    "departure": "19:35"
   },
   "V21596": {
     "headcode": "1H35",
@@ -12521,6 +12514,13 @@
     "origin": "BRSTLTM",
     "destination": "PADTON",
     "departure": "15:24"
+  },
+  "V21602": {
+    "headcode": "1H24",
+    "serviceGroup": "EF01",
+    "origin": "BRSTLTM",
+    "destination": "PADTON",
+    "departure": "14:24"
   },
   "V21603": {
     "headcode": "1H22",
@@ -12858,6 +12858,34 @@
     "destination": "BRSTLTM",
     "departure": "06:24"
   },
+  "V21576": {
+    "headcode": "1U11",
+    "serviceGroup": "EF01",
+    "origin": "PADTON",
+    "destination": "BRSTLTM",
+    "departure": "11:00"
+  },
+  "V21607": {
+    "headcode": "1H14",
+    "serviceGroup": "EF01",
+    "origin": "BRSTLTM",
+    "destination": "PADTON",
+    "departure": "09:24"
+  },
+  "V21608": {
+    "headcode": "1H12",
+    "serviceGroup": "EF01",
+    "origin": "TAUNTON",
+    "destination": "PADTON",
+    "departure": "07:23"
+  },
+  "V25919": {
+    "headcode": "2E52",
+    "serviceGroup": "EF10",
+    "origin": "BRSTLTM",
+    "destination": "GLOSTER",
+    "departure": "08:08"
+  },
   "V21564": {
     "headcode": "1U37",
     "serviceGroup": "EF01",
@@ -12872,12 +12900,12 @@
     "destination": "BRSTLTM",
     "departure": "14:00"
   },
-  "V21576": {
-    "headcode": "1U11",
+  "V21577": {
+    "headcode": "1U09",
     "serviceGroup": "EF01",
     "origin": "PADTON",
     "destination": "BRSTLTM",
-    "departure": "11:00"
+    "departure": "10:00"
   },
   "V21580": {
     "headcode": "1U03",
@@ -12900,26 +12928,19 @@
     "destination": "BRSTLTM",
     "departure": "05:23"
   },
-  "V21593": {
+  "V21590": {
+    "headcode": "1H40",
+    "serviceGroup": "EF01",
+    "origin": "BRSTLTM",
+    "destination": "PADTON",
+    "departure": "22:50"
+  },
+  "V21592": {
     "headcode": "1H39",
     "serviceGroup": "EF04",
     "origin": "PENZNCE",
     "destination": "PADTON",
     "departure": "17:50"
-  },
-  "V21595": {
-    "headcode": "1H37",
-    "serviceGroup": "EF01",
-    "origin": "EXETRSD",
-    "destination": "PADTON",
-    "departure": "19:35"
-  },
-  "V21602": {
-    "headcode": "1H24",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "14:24"
   },
   "V21605": {
     "headcode": "1H18",
@@ -12927,27 +12948,6 @@
     "origin": "BRSTLTM",
     "destination": "PADTON",
     "departure": "11:24"
-  },
-  "V21607": {
-    "headcode": "1H14",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "09:24"
-  },
-  "V21608": {
-    "headcode": "1H12",
-    "serviceGroup": "EF01",
-    "origin": "TAUNTON",
-    "destination": "PADTON",
-    "departure": "07:23"
-  },
-  "V25919": {
-    "headcode": "2E52",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
-    "destination": "GLOSTER",
-    "departure": "08:08"
   },
   "V25921": {
     "headcode": "1U19",
