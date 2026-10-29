@@ -632,30 +632,30 @@
   "C47808": {
     "headcode": "2O08",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "11:00"
+    "origin": "BRSTLTM",
+    "destination": "SLSBRY",
+    "departure": "10:45"
   },
   "C47809": {
     "headcode": "2O10",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "12:00"
+    "origin": "BRSTLTM",
+    "destination": "SLSBRY",
+    "departure": "11:42"
   },
   "C47810": {
     "headcode": "2O11",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "13:00"
+    "origin": "BRSTLTM",
+    "destination": "SLSBRY",
+    "departure": "12:42"
   },
   "C47816": {
     "headcode": "2O72",
     "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
+    "origin": "BRSTLTM",
     "destination": "WEYMTH",
-    "departure": "08:50"
+    "departure": "08:03"
   },
   "C47821": {
     "headcode": "2U00",
@@ -1221,29 +1221,29 @@
     "headcode": "2V52",
     "serviceGroup": "EF13",
     "origin": "FRATTON",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "04:50"
   },
   "C48129": {
     "headcode": "2T71",
     "serviceGroup": "EF13",
     "origin": "FROME",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "16:26"
   },
   "C48130": {
     "headcode": "2O19",
-    "serviceGroup": "EF13",
-    "origin": "FROME",
+    "serviceGroup": "EF03",
+    "origin": "GLOSTER",
     "destination": "SOTON",
-    "departure": "06:42"
+    "departure": "05:11"
   },
   "C48131": {
     "headcode": "2O74",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
+    "serviceGroup": "EF10",
+    "origin": "GLOSTER",
     "destination": "WEYMTH",
-    "departure": "10:53"
+    "departure": "09:08"
   },
   "C48137": {
     "headcode": "2T30",
@@ -2346,10 +2346,10 @@
   },
   "C48648": {
     "headcode": "2O16",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "18:00"
+    "serviceGroup": "EF10",
+    "origin": "SVRNBCH",
+    "destination": "SLSBRY",
+    "departure": "17:01"
   },
   "C48657": {
     "headcode": "2W01",
@@ -2830,16 +2830,16 @@
   "C48844": {
     "headcode": "2T73",
     "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "17:43"
+    "origin": "WRMNSTR",
+    "destination": "BRSTLTM",
+    "departure": "17:30"
   },
   "C48846": {
     "headcode": "2M13",
     "serviceGroup": "EF13",
-    "origin": "SLSBRY",
+    "origin": "WSTBRYW",
     "destination": "SDON",
-    "departure": "07:03"
+    "departure": "07:45"
   },
   "C48847": {
     "headcode": "2M15",
@@ -2929,7 +2929,7 @@
     "headcode": "2V60",
     "serviceGroup": "EF13",
     "origin": "WEYMTH",
-    "destination": "WSTBRYW",
+    "destination": "GLOSTER",
     "departure": "09:32"
   },
   "C48903": {
@@ -2977,16 +2977,16 @@
   "G14893": {
     "headcode": "1A02",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "PADTON",
-    "departure": "06:02"
+    "departure": "05:47"
   },
   "G14895": {
     "headcode": "1A06",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "WSMARE",
     "destination": "PADTON",
-    "departure": "07:12"
+    "departure": "06:24"
   },
   "G14896": {
     "headcode": "1A07",
@@ -2998,9 +2998,9 @@
   "G14897": {
     "headcode": "1A09",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "TAUNTON",
     "destination": "PADTON",
-    "departure": "08:12"
+    "departure": "06:54"
   },
   "G14899": {
     "headcode": "1A14",
@@ -3026,9 +3026,9 @@
   "G14903": {
     "headcode": "1A19",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "WSMARE",
     "destination": "PADTON",
-    "departure": "12:12"
+    "departure": "11:23"
   },
   "G14904": {
     "headcode": "1A22",
@@ -3054,23 +3054,23 @@
   "G14908": {
     "headcode": "1A27",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "WSMARE",
     "destination": "PADTON",
-    "departure": "16:12"
+    "departure": "15:28"
   },
   "G14910": {
     "headcode": "1A31",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "WSMARE",
     "destination": "PADTON",
-    "departure": "18:12"
+    "departure": "17:29"
   },
   "G14911": {
     "headcode": "1A33",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "WSMARE",
     "destination": "PADTON",
-    "departure": "19:12"
+    "departure": "18:29"
   },
   "G14912": {
     "headcode": "1A35",
@@ -3251,7 +3251,7 @@
     "headcode": "1C02",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "WSMARE",
     "departure": "06:28"
   },
   "G14951": {
@@ -3265,7 +3265,7 @@
     "headcode": "1C04",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "07:29"
   },
   "G14953": {
@@ -3279,7 +3279,7 @@
     "headcode": "1C06",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "WSMARE",
     "departure": "08:30"
   },
   "G14955": {
@@ -3293,21 +3293,21 @@
     "headcode": "1C08",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "09:30"
   },
   "G14957": {
     "headcode": "1C10",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "WSMARE",
     "departure": "10:30"
   },
   "G14958": {
     "headcode": "1C12",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "11:30"
   },
   "G14959": {
@@ -3321,7 +3321,7 @@
     "headcode": "1C14",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "WSMARE",
     "departure": "12:30"
   },
   "G14961": {
@@ -3335,7 +3335,7 @@
     "headcode": "1C16",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "13:30"
   },
   "G14963": {
@@ -3349,49 +3349,49 @@
     "headcode": "1C18",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "WSMARE",
     "departure": "14:30"
   },
   "G14965": {
     "headcode": "1C20",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "WSMARE",
     "departure": "15:30"
   },
   "G14966": {
     "headcode": "1C22",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "TAUNTON",
     "departure": "16:30"
   },
   "G14967": {
     "headcode": "1C25",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "TAUNTON",
     "departure": "17:30"
   },
   "G14968": {
     "headcode": "1C28",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "WSMARE",
     "departure": "18:30"
   },
   "G14969": {
     "headcode": "1C31",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "WSMARE",
     "departure": "19:30"
   },
   "G14970": {
     "headcode": "1C33",
     "serviceGroup": "EF01",
     "origin": "PADTON",
-    "destination": "BATHSPA",
+    "destination": "WSMARE",
     "departure": "20:30"
   },
   "G14971": {
@@ -3420,7 +3420,7 @@
     "serviceGroup": "EF01",
     "origin": "PADTON",
     "destination": "BRSTLTM",
-    "departure": "22:28"
+    "departure": "22:30"
   },
   "G14975": {
     "headcode": "1C37",
@@ -3523,176 +3523,176 @@
   "G15000": {
     "headcode": "1F04",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "FROME",
     "destination": "CRDFCEN",
-    "departure": "07:50"
+    "departure": "06:42"
   },
   "G15001": {
     "headcode": "1F05",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "06:28"
   },
   "G15002": {
     "headcode": "1F06",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "08:50"
+    "departure": "06:01"
   },
   "G15003": {
     "headcode": "1F07",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "07:27"
   },
   "G15004": {
     "headcode": "1F08",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "09:52"
+    "departure": "07:20"
   },
   "G15005": {
     "headcode": "1F10",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "10:52"
+    "departure": "08:21"
   },
   "G15006": {
     "headcode": "1F11",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "09:28"
   },
   "G15007": {
     "headcode": "1F12",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "11:52"
+    "departure": "09:23"
   },
   "G15008": {
     "headcode": "1F13",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "10:30"
   },
   "G15009": {
     "headcode": "1F14",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "12:52"
+    "departure": "10:23"
   },
   "G15010": {
     "headcode": "1F15",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "11:30"
   },
   "G15011": {
     "headcode": "1F16",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "13:52"
+    "departure": "11:23"
   },
   "G15012": {
     "headcode": "1F17",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "12:30"
   },
   "G15013": {
     "headcode": "1F19",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "13:30"
   },
   "G15014": {
     "headcode": "1F20",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "15:51"
+    "departure": "13:23"
   },
   "G15015": {
     "headcode": "1F21",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "14:30"
   },
   "G15016": {
     "headcode": "1F22",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "16:51"
+    "departure": "14:23"
   },
   "G15017": {
     "headcode": "1F23",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "15:30"
   },
   "G15018": {
     "headcode": "1F24",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "17:51"
+    "departure": "15:23"
   },
   "G15019": {
     "headcode": "1F25",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "16:27"
   },
   "G15020": {
     "headcode": "1F26",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "18:52"
+    "departure": "16:24"
   },
   "G15021": {
     "headcode": "1F28",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "19:51"
+    "departure": "17:24"
   },
   "G15022": {
     "headcode": "1F29",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "18:30"
   },
   "G15023": {
     "headcode": "1F30",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "20:51"
+    "departure": "18:24"
   },
   "G15025": {
     "headcode": "1F31",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "19:28"
   },
   "G15028": {
@@ -3704,10 +3704,10 @@
   },
   "G15029": {
     "headcode": "1F95",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
+    "serviceGroup": "EF10",
+    "origin": "BRSTPWY",
     "destination": "PSEA",
-    "departure": "22:00"
+    "departure": "21:21"
   },
   "G15030": {
     "headcode": "1G07",
@@ -4483,21 +4483,21 @@
     "headcode": "2C08",
     "serviceGroup": "EF10",
     "origin": "GLOSTER",
-    "destination": "BRSTLTM",
+    "destination": "FROME",
     "departure": "08:11"
   },
   "G15164": {
     "headcode": "2C10",
     "serviceGroup": "EF10",
     "origin": "GLOSTER",
-    "destination": "BRSTLTM",
+    "destination": "WSTBRYW",
     "departure": "10:12"
   },
   "G15165": {
     "headcode": "2C12",
     "serviceGroup": "EF10",
     "origin": "GLOSTER",
-    "destination": "BRSTLTM",
+    "destination": "WSTBRYW",
     "departure": "12:09"
   },
   "G15166": {
@@ -4510,15 +4510,15 @@
   "G15167": {
     "headcode": "2C15",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "WSTBRYW",
-    "departure": "15:00"
+    "departure": "14:42"
   },
   "G15168": {
     "headcode": "2C17",
     "serviceGroup": "EF10",
     "origin": "GLOSTER",
-    "destination": "BRSTLTM",
+    "destination": "FROME",
     "departure": "14:09"
   },
   "G15169": {
@@ -4566,9 +4566,9 @@
   "G15175": {
     "headcode": "2C36",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "WSTBRYW",
-    "departure": "23:30"
+    "departure": "23:06"
   },
   "G15176": {
     "headcode": "2C44",
@@ -4817,10 +4817,10 @@
   },
   "G15217": {
     "headcode": "2E58",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
+    "serviceGroup": "EF13",
+    "origin": "WRMNSTR",
     "destination": "GLOSTER",
-    "departure": "11:08"
+    "departure": "09:55"
   },
   "G15218": {
     "headcode": "2E59",
@@ -4838,10 +4838,10 @@
   },
   "G15220": {
     "headcode": "2E62",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
+    "serviceGroup": "EF13",
+    "origin": "WSTBRYW",
     "destination": "GLOSTER",
-    "departure": "13:09"
+    "departure": "12:05"
   },
   "G15221": {
     "headcode": "2E67",
@@ -4866,10 +4866,10 @@
   },
   "G15224": {
     "headcode": "2E71",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
+    "serviceGroup": "EF13",
+    "origin": "WSTBRYW",
     "destination": "GLOSTER",
-    "departure": "17:08"
+    "departure": "16:01"
   },
   "G15225": {
     "headcode": "2E73",
@@ -4895,9 +4895,9 @@
   "G15228": {
     "headcode": "2F03",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "09:00"
+    "origin": "BRSTLTM",
+    "destination": "WRMNSTR",
+    "departure": "08:43"
   },
   "G15229": {
     "headcode": "2F12",
@@ -4909,23 +4909,23 @@
   "G15230": {
     "headcode": "2F12",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "14:00"
+    "origin": "BRSTLTM",
+    "destination": "WRMNSTR",
+    "departure": "13:44"
   },
   "G15231": {
     "headcode": "2F14",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "16:00"
+    "origin": "BRSTLTM",
+    "destination": "WRMNSTR",
+    "departure": "15:45"
   },
   "G15232": {
     "headcode": "2F16",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "17:00"
+    "origin": "BRSTLTM",
+    "destination": "WRMNSTR",
+    "departure": "16:47"
   },
   "G15233": {
     "headcode": "2F28",
@@ -5506,14 +5506,14 @@
     "serviceGroup": "EF13",
     "origin": "WSTBRYW",
     "destination": "SDON",
-    "departure": "12:22"
+    "departure": "12:17"
   },
   "G15372": {
     "headcode": "2M19",
     "serviceGroup": "EF13",
     "origin": "WSTBRYW",
     "destination": "SDON",
-    "departure": "14:23"
+    "departure": "14:18"
   },
   "G15373": {
     "headcode": "2M23",
@@ -5575,7 +5575,7 @@
     "headcode": "2M95",
     "serviceGroup": "EF13",
     "origin": "PHBR",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "21:23"
   },
   "G15385": {
@@ -5662,18 +5662,11 @@
     "destination": "PARR",
     "departure": "21:12"
   },
-  "G15442": {
-    "headcode": "2O07",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "10:00"
-  },
   "G15443": {
     "headcode": "2O09",
     "serviceGroup": "EF03",
     "origin": "GLOSTER",
-    "destination": "WSTBRYW",
+    "destination": "SLSBRY",
     "departure": "17:50"
   },
   "G15444": {
@@ -5693,37 +5686,37 @@
   "G15447": {
     "headcode": "2O70",
     "serviceGroup": "EF13",
-    "origin": "SDON",
+    "origin": "WSTBRYW",
     "destination": "WEYMTH",
-    "departure": "06:03"
+    "departure": "06:51"
   },
   "G15448": {
     "headcode": "2O76",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
+    "serviceGroup": "EF10",
+    "origin": "GLOSTER",
     "destination": "WEYMTH",
-    "departure": "12:49"
+    "departure": "11:09"
   },
   "G15449": {
     "headcode": "2O78",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
+    "serviceGroup": "EF10",
+    "origin": "GLOSTER",
     "destination": "WEYMTH",
-    "departure": "14:50"
+    "departure": "13:09"
   },
   "G15450": {
     "headcode": "2O80",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
+    "serviceGroup": "EF10",
+    "origin": "GLOSTER",
     "destination": "WEYMTH",
-    "departure": "16:51"
+    "departure": "15:09"
   },
   "G15453": {
     "headcode": "2O98",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "WEYMTH",
-    "departure": "21:05"
+    "departure": "20:50"
   },
   "G15457": {
     "headcode": "2P05",
@@ -5886,18 +5879,11 @@
     "destination": "BRSTLTM",
     "departure": "22:38"
   },
-  "G15486": {
-    "headcode": "2T55",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "08:43"
-  },
   "G15487": {
     "headcode": "2T59",
     "serviceGroup": "EF13",
     "origin": "FROME",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "10:26"
   },
   "G15488": {
@@ -5910,16 +5896,16 @@
   "G15489": {
     "headcode": "2T69",
     "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "15:43"
+    "origin": "WRMNSTR",
+    "destination": "BRSTLTM",
+    "departure": "15:31"
   },
   "G15490": {
     "headcode": "2T75",
     "serviceGroup": "EF13",
     "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "18:43"
+    "destination": "BRSTLTM",
+    "departure": "18:42"
   },
   "G15491": {
     "headcode": "2T99",
@@ -6065,112 +6051,112 @@
     "headcode": "2V54",
     "serviceGroup": "EF13",
     "origin": "WEYMTH",
-    "destination": "BATHSPA",
+    "destination": "GLOSTER",
     "departure": "06:38"
   },
   "G15518": {
     "headcode": "2V56",
     "serviceGroup": "EF13",
     "origin": "WEYMTH",
-    "destination": "WSTBRYW",
+    "destination": "GLOSTER",
     "departure": "07:33"
   },
   "G15519": {
     "headcode": "2V57",
     "serviceGroup": "EF13",
     "origin": "SOTON",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "08:23"
   },
   "G15520": {
     "headcode": "2V61",
     "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "11:43"
+    "origin": "SLSBRY",
+    "destination": "BRSTLTM",
+    "departure": "11:08"
   },
   "G15521": {
     "headcode": "2V63",
     "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "12:43"
+    "origin": "SLSBRY",
+    "destination": "BRSTLTM",
+    "departure": "12:07"
   },
   "G15522": {
     "headcode": "2V64",
     "serviceGroup": "EF13",
     "origin": "WEYMTH",
-    "destination": "WSTBRYW",
+    "destination": "GLOSTER",
     "departure": "11:30"
   },
   "G15523": {
     "headcode": "2V65",
     "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "13:41"
+    "origin": "SLSBRY",
+    "destination": "BRSTLTM",
+    "departure": "13:07"
   },
   "G15524": {
     "headcode": "2V67",
     "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "14:43"
+    "origin": "SLSBRY",
+    "destination": "BRSTLTM",
+    "departure": "14:06"
   },
   "G15525": {
     "headcode": "2V68",
     "serviceGroup": "EF13",
     "origin": "WEYMTH",
-    "destination": "WSTBRYW",
+    "destination": "GLOSTER",
     "departure": "13:28"
   },
   "G15526": {
     "headcode": "2V69",
     "serviceGroup": "EF13",
     "origin": "YOVILPM",
-    "destination": "BATHSPA",
+    "destination": "GLOSTER",
     "departure": "06:18"
   },
   "G15527": {
     "headcode": "2V72",
     "serviceGroup": "EF13",
     "origin": "WEYMTH",
-    "destination": "WSTBRYW",
+    "destination": "GLOSTER",
     "departure": "15:28"
   },
   "G15528": {
     "headcode": "2V79",
     "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "19:43"
+    "origin": "SLSBRY",
+    "destination": "BRSTLTM",
+    "departure": "19:13"
   },
   "G15529": {
     "headcode": "2V81",
     "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "20:43"
+    "origin": "SLSBRY",
+    "destination": "BRSTLTM",
+    "departure": "20:11"
   },
   "G15530": {
     "headcode": "2V82",
     "serviceGroup": "EF13",
     "origin": "WEYMTH",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "20:14"
   },
   "G15531": {
     "headcode": "2V94",
     "serviceGroup": "EF13",
     "origin": "WEYMTH",
-    "destination": "WSTBRYW",
+    "destination": "BRSTLTM",
     "departure": "17:28"
   },
   "G15532": {
     "headcode": "2V98",
     "serviceGroup": "EF13",
     "origin": "SLSBRY",
-    "destination": "BATHSPA",
+    "destination": "BRSTLTM",
     "departure": "22:11"
   },
   "G15533": {
@@ -6274,9 +6260,9 @@
   "W34477": {
     "headcode": "1A15",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "WSMARE",
     "destination": "PADTON",
-    "departure": "10:12"
+    "departure": "09:29"
   },
   "W34490": {
     "headcode": "1A20",
@@ -6295,9 +6281,9 @@
   "W34513": {
     "headcode": "1A29",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "PADTON",
-    "departure": "17:12"
+    "departure": "17:00"
   },
   "W34519": {
     "headcode": "1A32",
@@ -6491,9 +6477,9 @@
   "W34663": {
     "headcode": "1C00",
     "serviceGroup": "EF02",
-    "origin": "BRSTLTM",
+    "origin": "PADTON",
     "destination": "SWANSEA",
-    "departure": "07:07"
+    "departure": "05:23"
   },
   "W34706": {
     "headcode": "1C19",
@@ -6841,50 +6827,50 @@
   "W34957": {
     "headcode": "1F01",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "PHBR",
-    "departure": "05:16"
+    "departure": "05:01"
   },
   "W34961": {
     "headcode": "1F03",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "PHBR",
-    "departure": "06:07"
+    "departure": "05:52"
   },
   "W34974": {
     "headcode": "1F09",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "08:27"
   },
   "W34999": {
     "headcode": "1F18",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "14:51"
+    "departure": "12:23"
   },
   "W35025": {
     "headcode": "1F27",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "17:27"
   },
   "W35041": {
     "headcode": "1F32",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "21:56"
+    "departure": "19:23"
   },
   "W35045": {
     "headcode": "1F33",
     "serviceGroup": "EF13",
     "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
+    "destination": "PHBR",
     "departure": "20:30"
   },
   "W35059": {
@@ -7191,9 +7177,9 @@
   "W35157": {
     "headcode": "1K71",
     "serviceGroup": "EF04",
-    "origin": "WSTBRYW",
+    "origin": "BRSTLTM",
     "destination": "PADTON",
-    "departure": "05:57"
+    "departure": "05:10"
   },
   "W35166": {
     "headcode": "1L06",
@@ -7438,7 +7424,7 @@
     "serviceGroup": "EF03",
     "origin": "WORCSSH",
     "destination": "PADTON",
-    "departure": "20:01"
+    "departure": "20:03"
   },
   "W35392": {
     "headcode": "1P44",
@@ -9166,7 +9152,7 @@
     "headcode": "2C01",
     "serviceGroup": "EF10",
     "origin": "BRSTPWY",
-    "destination": "BRSTLTM",
+    "destination": "WSTBRYW",
     "departure": "06:13"
   },
   "Y41566": {
@@ -9186,9 +9172,9 @@
   "Y41572": {
     "headcode": "2C06",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "WSTBRYW",
-    "departure": "08:00"
+    "departure": "07:40"
   },
   "Y41578": {
     "headcode": "2C09",
@@ -9221,15 +9207,15 @@
   "Y41596": {
     "headcode": "2C24",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "WSTBRYW",
-    "departure": "19:00"
+    "departure": "18:43"
   },
   "Y41598": {
     "headcode": "2C25",
     "serviceGroup": "EF10",
     "origin": "GLOSTER",
-    "destination": "BRSTLTM",
+    "destination": "WSTBRYW",
     "departure": "18:09"
   },
   "Y41600": {
@@ -9367,10 +9353,10 @@
   },
   "Y41809": {
     "headcode": "2E66",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
+    "serviceGroup": "EF13",
+    "origin": "WSTBRYW",
     "destination": "GLOSTER",
-    "departure": "15:08"
+    "departure": "14:03"
   },
   "Y41819": {
     "headcode": "2E72",
@@ -9381,10 +9367,10 @@
   },
   "Y41823": {
     "headcode": "2E74",
-    "serviceGroup": "EF01",
-    "origin": "WSMARE",
+    "serviceGroup": "EF10",
+    "origin": "BRSTLTM",
     "destination": "GLOSTER",
-    "departure": "18:29"
+    "departure": "19:08"
   },
   "Y41825": {
     "headcode": "2E76",
@@ -9405,7 +9391,7 @@
     "serviceGroup": "EF10",
     "origin": "BRSTLTM",
     "destination": "WORCSSH",
-    "departure": "21:03"
+    "departure": "21:00"
   },
   "Y41830": {
     "headcode": "2E80",
@@ -10445,10 +10431,10 @@
   },
   "Y80571": {
     "headcode": "2G91",
-    "serviceGroup": "EF03",
-    "origin": "SDON",
+    "serviceGroup": "EF13",
+    "origin": "WSTBRYW",
     "destination": "CHLTNHM",
-    "departure": "20:55"
+    "departure": "20:06"
   },
   "Y80574": {
     "headcode": "2G93",
@@ -10908,9 +10894,9 @@
   "G14998": {
     "headcode": "1F02",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "WSTBRYW",
     "destination": "CRDFCEN",
-    "departure": "06:56"
+    "departure": "05:58"
   },
   "G15057": {
     "headcode": "1N51",
@@ -10964,9 +10950,9 @@
   "W34493": {
     "headcode": "1A21",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "PADTON",
-    "departure": "13:12"
+    "departure": "13:00"
   },
   "W34686": {
     "headcode": "1C11",
@@ -11031,6 +11017,20 @@
     "destination": "WORCSSH",
     "departure": "06:08"
   },
+  "G15441": {
+    "headcode": "2O07",
+    "serviceGroup": "EF13",
+    "origin": "BRSTLTM",
+    "destination": "SLSBRY",
+    "departure": "09:45"
+  },
+  "G15485": {
+    "headcode": "2T55",
+    "serviceGroup": "EF13",
+    "origin": "WSTBRYW",
+    "destination": "BRSTLTM",
+    "departure": "08:41"
+  },
   "G14995": {
     "headcode": "1D41",
     "serviceGroup": "EF05",
@@ -11040,10 +11040,10 @@
   },
   "G15451": {
     "headcode": "2O84",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
+    "serviceGroup": "EF10",
+    "origin": "GLOSTER",
     "destination": "WEYMTH",
-    "departure": "18:50"
+    "departure": "17:09"
   },
   "W34680": {
     "headcode": "1C09",
@@ -11370,9 +11370,9 @@
   "Y41608": {
     "headcode": "2C30",
     "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "20:00"
+    "origin": "BRSTLTM",
+    "destination": "FROME",
+    "departure": "19:47"
   },
   "G15055": {
     "headcode": "1L90",
@@ -11419,9 +11419,9 @@
   "G15026": {
     "headcode": "1F34",
     "serviceGroup": "EF13",
-    "origin": "BRSTLTM",
+    "origin": "PHBR",
     "destination": "CRDFCEN",
-    "departure": "22:58"
+    "departure": "20:24"
   },
   "G15156": {
     "headcode": "1W05",
@@ -11614,10 +11614,10 @@
   },
   "C48135": {
     "headcode": "2O82",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
+    "serviceGroup": "EF10",
+    "origin": "GLOSTER",
     "destination": "WEYMTH",
-    "departure": "18:06"
+    "departure": "16:09"
   },
   "C47859": {
     "headcode": "2P15",
@@ -11951,16 +11951,16 @@
   "G14901": {
     "headcode": "1A17",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "PADTON",
-    "departure": "11:12"
+    "departure": "11:00"
   },
   "G14906": {
     "headcode": "1A25",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "PADTON",
-    "departure": "15:12"
+    "departure": "15:00"
   },
   "G14909": {
     "headcode": "1A30",
@@ -12063,16 +12063,16 @@
   "W34472": {
     "headcode": "1A13",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "BRSTLTM",
     "destination": "PADTON",
-    "departure": "09:12"
+    "departure": "09:00"
   },
   "W34498": {
     "headcode": "1A23",
     "serviceGroup": "EF01",
-    "origin": "BATHSPA",
+    "origin": "WSMARE",
     "destination": "PADTON",
-    "departure": "14:12"
+    "departure": "13:26"
   },
   "W34555": {
     "headcode": "1A73",
@@ -12186,657 +12186,6 @@
     "destination": "PADTON",
     "departure": "14:17"
   },
-  "V21531": {
-    "headcode": "2Y55",
-    "serviceGroup": "EF10",
-    "origin": "AVONMTH",
-    "destination": "WSMARE",
-    "departure": "19:46"
-  },
-  "V21532": {
-    "headcode": "2T84",
-    "serviceGroup": "EF10",
-    "origin": "GLOSTER",
-    "destination": "BRSTLTM",
-    "departure": "17:09"
-  },
-  "V21533": {
-    "headcode": "2T82",
-    "serviceGroup": "EF10",
-    "origin": "GLOSTER",
-    "destination": "BRSTLTM",
-    "departure": "16:09"
-  },
-  "V21534": {
-    "headcode": "2T80",
-    "serviceGroup": "EF10",
-    "origin": "GLOSTER",
-    "destination": "BRSTLTM",
-    "departure": "15:09"
-  },
-  "V21535": {
-    "headcode": "2T78",
-    "serviceGroup": "EF10",
-    "origin": "GLOSTER",
-    "destination": "BRSTLTM",
-    "departure": "13:09"
-  },
-  "V21536": {
-    "headcode": "2T76",
-    "serviceGroup": "EF10",
-    "origin": "GLOSTER",
-    "destination": "BRSTLTM",
-    "departure": "11:09"
-  },
-  "V21537": {
-    "headcode": "2T74",
-    "serviceGroup": "EF10",
-    "origin": "GLOSTER",
-    "destination": "BRSTLTM",
-    "departure": "09:08"
-  },
-  "V21538": {
-    "headcode": "2R32",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "21:22"
-  },
-  "V21539": {
-    "headcode": "2R02",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "05:25"
-  },
-  "V21540": {
-    "headcode": "2K45",
-    "serviceGroup": "EF10",
-    "origin": "SVRNBCH",
-    "destination": "BRSTLTM",
-    "departure": "17:01"
-  },
-  "V21541": {
-    "headcode": "2J37",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "FROME",
-    "departure": "22:33"
-  },
-  "V21542": {
-    "headcode": "2J30",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "FROME",
-    "departure": "20:39"
-  },
-  "V21543": {
-    "headcode": "2J17",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "FROME",
-    "departure": "15:48"
-  },
-  "V21544": {
-    "headcode": "2J08",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "FROME",
-    "departure": "10:06"
-  },
-  "V21553": {
-    "headcode": "2C33",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "WSMARE",
-    "departure": "22:21"
-  },
-  "V21554": {
-    "headcode": "2C31",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "WSMARE",
-    "departure": "21:15"
-  },
-  "V21555": {
-    "headcode": "2C22",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "TAUNTON",
-    "departure": "18:15"
-  },
-  "V21556": {
-    "headcode": "2C20",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "WSMARE",
-    "departure": "17:15"
-  },
-  "V21557": {
-    "headcode": "2C18",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "WSMARE",
-    "departure": "16:13"
-  },
-  "V21558": {
-    "headcode": "2C04",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "WSTBRYW",
-    "departure": "07:00"
-  },
-  "V21559": {
-    "headcode": "2B19",
-    "serviceGroup": "EF03",
-    "origin": "GLOSTER",
-    "destination": "SDON",
-    "departure": "05:11"
-  },
-  "V21560": {
-    "headcode": "2A31",
-    "serviceGroup": "EF01",
-    "origin": "WSMARE",
-    "destination": "BRSTLTM",
-    "departure": "17:29"
-  },
-  "V21562": {
-    "headcode": "1Z72",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "SDON",
-    "departure": "19:23"
-  },
-  "V21563": {
-    "headcode": "1U38",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "23:32"
-  },
-  "V21566": {
-    "headcode": "1U34",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "21:02"
-  },
-  "V21567": {
-    "headcode": "1U32",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "20:00"
-  },
-  "V21568": {
-    "headcode": "1U30",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "19:00"
-  },
-  "V21569": {
-    "headcode": "1U27",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "18:01"
-  },
-  "V21570": {
-    "headcode": "1U24",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "17:00"
-  },
-  "V21571": {
-    "headcode": "1U21",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "16:00"
-  },
-  "V21574": {
-    "headcode": "1U15",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "13:00"
-  },
-  "V21575": {
-    "headcode": "1U13",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "12:00"
-  },
-  "V21578": {
-    "headcode": "1U07",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "09:00"
-  },
-  "V21579": {
-    "headcode": "1U05",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "07:57"
-  },
-  "V21583": {
-    "headcode": "1T40",
-    "serviceGroup": "EF01",
-    "origin": "BATHSPA",
-    "destination": "SDON",
-    "departure": "23:00"
-  },
-  "V21584": {
-    "headcode": "1T39",
-    "serviceGroup": "EF01",
-    "origin": "BATHSPA",
-    "destination": "SDON",
-    "departure": "22:07"
-  },
-  "V21585": {
-    "headcode": "1T37",
-    "serviceGroup": "EF01",
-    "origin": "BATHSPA",
-    "destination": "SDON",
-    "departure": "21:23"
-  },
-  "V21586": {
-    "headcode": "1T36",
-    "serviceGroup": "EF01",
-    "origin": "SDON",
-    "destination": "BATHSPA",
-    "departure": "23:08"
-  },
-  "V21587": {
-    "headcode": "1T35",
-    "serviceGroup": "EF01",
-    "origin": "BATHSPA",
-    "destination": "SDON",
-    "departure": "20:07"
-  },
-  "V21588": {
-    "headcode": "1T34",
-    "serviceGroup": "EF01",
-    "origin": "SDON",
-    "destination": "BATHSPA",
-    "departure": "22:03"
-  },
-  "V21589": {
-    "headcode": "1T06",
-    "serviceGroup": "EF01",
-    "origin": "SDON",
-    "destination": "BATHSPA",
-    "departure": "06:24"
-  },
-  "V21595": {
-    "headcode": "1H37",
-    "serviceGroup": "EF01",
-    "origin": "EXETRSD",
-    "destination": "PADTON",
-    "departure": "19:35"
-  },
-  "V21596": {
-    "headcode": "1H35",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "20:00"
-  },
-  "V21598": {
-    "headcode": "1H32",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "18:24"
-  },
-  "V21599": {
-    "headcode": "1H30",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "17:24"
-  },
-  "V21600": {
-    "headcode": "1H28",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "16:24"
-  },
-  "V21601": {
-    "headcode": "1H26",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "15:24"
-  },
-  "V21602": {
-    "headcode": "1H24",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "14:24"
-  },
-  "V21603": {
-    "headcode": "1H22",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "13:24"
-  },
-  "V21604": {
-    "headcode": "1H20",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "12:24"
-  },
-  "V21606": {
-    "headcode": "1H16",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "10:24"
-  },
-  "V21609": {
-    "headcode": "1H07",
-    "serviceGroup": "EF01",
-    "origin": "WSMARE",
-    "destination": "PADTON",
-    "departure": "06:51"
-  },
-  "V21610": {
-    "headcode": "1H04",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "06:24"
-  },
-  "V21611": {
-    "headcode": "1H03",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "05:23"
-  },
-  "V21612": {
-    "headcode": "1F74",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "20:24"
-  },
-  "V21613": {
-    "headcode": "1F73",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "21:30"
-  },
-  "V21614": {
-    "headcode": "1F71",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "20:30"
-  },
-  "V21615": {
-    "headcode": "1F70",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "18:24"
-  },
-  "V21616": {
-    "headcode": "1F69",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "19:30"
-  },
-  "V21617": {
-    "headcode": "1F68",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "17:24"
-  },
-  "V21618": {
-    "headcode": "1F67",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "18:30"
-  },
-  "V21619": {
-    "headcode": "1F66",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "16:24"
-  },
-  "V21620": {
-    "headcode": "1F65",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "17:30"
-  },
-  "V21621": {
-    "headcode": "1F64",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "15:23"
-  },
-  "V21622": {
-    "headcode": "1F63",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "16:30"
-  },
-  "V21623": {
-    "headcode": "1F62",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "14:23"
-  },
-  "V21624": {
-    "headcode": "1F61",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "15:30"
-  },
-  "V21625": {
-    "headcode": "1F60",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "13:23"
-  },
-  "V21626": {
-    "headcode": "1F59",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "14:30"
-  },
-  "V21628": {
-    "headcode": "1F57",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "13:30"
-  },
-  "V21629": {
-    "headcode": "1F56",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "11:23"
-  },
-  "V21630": {
-    "headcode": "1F55",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "12:30"
-  },
-  "V21631": {
-    "headcode": "1F54",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "10:23"
-  },
-  "V21632": {
-    "headcode": "1F53",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "11:30"
-  },
-  "V21634": {
-    "headcode": "1F51",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "10:30"
-  },
-  "V21635": {
-    "headcode": "1F50",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "08:21"
-  },
-  "V21636": {
-    "headcode": "1F49",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "09:30"
-  },
-  "V21637": {
-    "headcode": "1F48",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "07:20"
-  },
-  "V21638": {
-    "headcode": "1F47",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "08:30"
-  },
-  "V21639": {
-    "headcode": "1F46",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "06:01"
-  },
-  "V21640": {
-    "headcode": "1F45",
-    "serviceGroup": "EF13",
-    "origin": "BATHSPA",
-    "destination": "PHBR",
-    "departure": "07:30"
-  },
-  "V21641": {
-    "headcode": "1F42",
-    "serviceGroup": "EF13",
-    "origin": "WSTBRYW",
-    "destination": "BATHSPA",
-    "departure": "05:58"
-  },
-  "V21642": {
-    "headcode": "1F37",
-    "serviceGroup": "EF13",
-    "origin": "CRDFCEN",
-    "destination": "BRSTLTM",
-    "departure": "21:30"
-  },
-  "V21657": {
-    "headcode": "2Z72",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
-    "destination": "GLOSTER",
-    "departure": "18:10"
-  },
-  "V25913": {
-    "headcode": "2E72",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
-    "destination": "GLOSTER",
-    "departure": "18:10"
-  },
-  "V25914": {
-    "headcode": "2E68",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
-    "destination": "GLOSTER",
-    "departure": "16:08"
-  },
-  "V25915": {
-    "headcode": "2E64",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
-    "destination": "GLOSTER",
-    "departure": "14:09"
-  },
-  "V25916": {
-    "headcode": "2E60",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
-    "destination": "GLOSTER",
-    "departure": "12:08"
-  },
-  "V25917": {
-    "headcode": "2E56",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
-    "destination": "GLOSTER",
-    "departure": "10:07"
-  },
-  "V25918": {
-    "headcode": "2E54",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
-    "destination": "GLOSTER",
-    "departure": "09:13"
-  },
-  "V25922": {
-    "headcode": "1H34",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "19:24"
-  },
-  "V25923": {
-    "headcode": "1F58",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "12:23"
-  },
-  "V28525": {
-    "headcode": "1F52",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "BATHSPA",
-    "departure": "09:23"
-  },
   "V49503": {
     "headcode": "2Z92",
     "serviceGroup": "EF11",
@@ -12850,117 +12199,5 @@
     "origin": "BATHSPA",
     "destination": "FROME",
     "departure": "00:30"
-  },
-  "V21561": {
-    "headcode": "2A06",
-    "serviceGroup": "EF01",
-    "origin": "WSMARE",
-    "destination": "BRSTLTM",
-    "departure": "06:24"
-  },
-  "V21576": {
-    "headcode": "1U11",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "11:00"
-  },
-  "V21607": {
-    "headcode": "1H14",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "09:24"
-  },
-  "V21608": {
-    "headcode": "1H12",
-    "serviceGroup": "EF01",
-    "origin": "TAUNTON",
-    "destination": "PADTON",
-    "departure": "07:23"
-  },
-  "V25919": {
-    "headcode": "2E52",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
-    "destination": "GLOSTER",
-    "departure": "08:08"
-  },
-  "V21564": {
-    "headcode": "1U37",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "22:30"
-  },
-  "V21573": {
-    "headcode": "1U17",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "14:00"
-  },
-  "V21577": {
-    "headcode": "1U09",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "10:00"
-  },
-  "V21580": {
-    "headcode": "1U03",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "07:00"
-  },
-  "V21581": {
-    "headcode": "1U01",
-    "serviceGroup": "EF04",
-    "origin": "PADTON",
-    "destination": "PENZNCE",
-    "departure": "06:00"
-  },
-  "V21582": {
-    "headcode": "1U00",
-    "serviceGroup": "EF02",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "05:23"
-  },
-  "V21590": {
-    "headcode": "1H40",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "22:50"
-  },
-  "V21592": {
-    "headcode": "1H39",
-    "serviceGroup": "EF04",
-    "origin": "PENZNCE",
-    "destination": "PADTON",
-    "departure": "17:50"
-  },
-  "V21605": {
-    "headcode": "1H18",
-    "serviceGroup": "EF01",
-    "origin": "BRSTLTM",
-    "destination": "PADTON",
-    "departure": "11:24"
-  },
-  "V25921": {
-    "headcode": "1U19",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "15:00"
-  },
-  "V47522": {
-    "headcode": "1U36",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "BRSTLTM",
-    "departure": "22:03"
   }
 }
