@@ -3782,9 +3782,9 @@
   "G15041": {
     "headcode": "1L10",
     "serviceGroup": "EF02",
-    "origin": "SWANSEA",
+    "origin": "CMTHN",
     "destination": "PADTON",
-    "departure": "07:18"
+    "departure": "06:13"
   },
   "G15043": {
     "headcode": "1L13",
@@ -4196,7 +4196,7 @@
     "headcode": "1O96",
     "serviceGroup": "EF09",
     "origin": "RDNG4AB",
-    "destination": "GUILDFD",
+    "destination": "GTWK",
     "departure": "23:33"
   },
   "G15119": {
@@ -4224,7 +4224,7 @@
     "headcode": "1V34",
     "serviceGroup": "EF09",
     "origin": "GTWK",
-    "destination": "BSNGSTK",
+    "destination": "RDNG4AB",
     "departure": "05:11"
   },
   "G15124": {
@@ -4427,7 +4427,7 @@
     "headcode": "1V68",
     "serviceGroup": "EF09",
     "origin": "GTWK",
-    "destination": "RDNG4AB",
+    "destination": "RDNGSTN",
     "departure": "21:30"
   },
   "G15153": {
@@ -4448,7 +4448,7 @@
     "headcode": "1V71",
     "serviceGroup": "EF09",
     "origin": "GTWK",
-    "destination": "REDHILL",
+    "destination": "RDNG4AB",
     "departure": "23:22"
   },
   "G15158": {
@@ -12192,48 +12192,6 @@
     "origin": "AXMNSTR",
     "destination": "EXETRSD",
     "departure": "20:56"
-  },
-  "V40662": {
-    "headcode": "2Z85",
-    "serviceGroup": "EF10",
-    "origin": "CRDFCEN",
-    "destination": "TAUNTON",
-    "departure": "16:58"
-  },
-  "V40663": {
-    "headcode": "2Z80",
-    "serviceGroup": "EF10",
-    "origin": "BRSTLTM",
-    "destination": "GLOSTER",
-    "departure": "21:43"
-  },
-  "V40664": {
-    "headcode": "2Z49",
-    "serviceGroup": "EF10",
-    "origin": "WORCSFS",
-    "destination": "BRSTLTM",
-    "departure": "16:55"
-  },
-  "V40666": {
-    "headcode": "2Z32",
-    "serviceGroup": "EF11",
-    "origin": "PAIGNTN",
-    "destination": "CRDFCEN",
-    "departure": "18:51"
-  },
-  "V40668": {
-    "headcode": "1Z35",
-    "serviceGroup": "EF10",
-    "origin": "BRSTPWY",
-    "destination": "PSEA",
-    "departure": "21:21"
-  },
-  "V40669": {
-    "headcode": "1Z24",
-    "serviceGroup": "EF13",
-    "origin": "PHBR",
-    "destination": "CRDFCEN",
-    "departure": "15:23"
   },
   "V47071": {
     "headcode": "1V72",
