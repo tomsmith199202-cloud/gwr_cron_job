@@ -3175,7 +3175,7 @@
     "serviceGroup": "EF02",
     "origin": "PADTON",
     "destination": "CRDFCEN",
-    "departure": "09:18"
+    "departure": "09:15"
   },
   "G14938": {
     "headcode": "1B09",
@@ -12339,12 +12339,5 @@
     "origin": "NEWBURY",
     "destination": "RDNGSTN",
     "departure": "23:59"
-  },
-  "V46534": {
-    "headcode": "1Z33",
-    "serviceGroup": "EF01",
-    "origin": "PADTON",
-    "destination": "WSMARE",
-    "departure": "20:30"
   }
 }
